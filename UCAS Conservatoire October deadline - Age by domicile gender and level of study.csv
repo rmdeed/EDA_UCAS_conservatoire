@@ -1,0 +1,2733 @@
+Year,Age,Domicile,Gender,Level of study,Applicants
+2016,All,All,All,All,3150
+2017,All,All,All,All,2010
+2018,All,All,All,All,2420
+2019,All,All,All,All,3540
+2020,All,All,All,All,3760
+2021,All,All,All,All,3680
+2022,All,All,All,All,3440
+2023,All,All,All,All,3650
+2016,All,All,All,Combination,20
+2016,All,All,All,Postgraduate only,1420
+2016,All,All,All,Undergraduate only,1710
+2017,All,All,All,Combination,20
+2017,All,All,All,Postgraduate only,810
+2017,All,All,All,Undergraduate only,1180
+2018,All,All,All,Combination,20
+2018,All,All,All,Postgraduate only,1060
+2018,All,All,All,Undergraduate only,1330
+2019,All,All,All,Combination,30
+2019,All,All,All,Postgraduate only,1750
+2019,All,All,All,Undergraduate only,1760
+2020,All,All,All,Combination,30
+2020,All,All,All,Postgraduate only,1950
+2020,All,All,All,Undergraduate only,1790
+2021,All,All,All,Combination,30
+2021,All,All,All,Postgraduate only,1970
+2021,All,All,All,Undergraduate only,1680
+2022,All,All,All,Combination,30
+2022,All,All,All,Postgraduate only,1910
+2022,All,All,All,Undergraduate only,1500
+2023,All,All,All,Combination,40
+2023,All,All,All,Postgraduate only,1970
+2023,All,All,All,Undergraduate only,1640
+2016,All,All,Men,All,1400
+2016,All,All,Women,All,1740
+2017,All,All,Men,All,900
+2017,All,All,Women,All,1100
+2018,All,All,Men,All,1030
+2018,All,All,Women,All,1380
+2019,All,All,Men,All,1510
+2019,All,All,Women,All,2030
+2020,All,All,Men,All,1650
+2020,All,All,Women,All,2110
+2021,All,All,Men,All,1700
+2021,All,All,Women,All,1980
+2022,All,All,Men,All,1540
+2022,All,All,Women,All,1900
+2023,All,All,Men,All,1660
+2023,All,All,Women,All,2000
+2016,All,All,Men,Combination,10
+2016,All,All,Men,Postgraduate only,580
+2016,All,All,Men,Undergraduate only,810
+2016,All,All,Women,Combination,10
+2016,All,All,Women,Postgraduate only,840
+2016,All,All,Women,Undergraduate only,890
+2017,All,All,Men,Combination,10
+2017,All,All,Men,Postgraduate only,320
+2017,All,All,Men,Undergraduate only,580
+2017,All,All,Women,Combination,10
+2017,All,All,Women,Postgraduate only,490
+2017,All,All,Women,Undergraduate only,610
+2018,All,All,Men,Combination,10
+2018,All,All,Men,Postgraduate only,390
+2018,All,All,Men,Undergraduate only,630
+2018,All,All,Women,Combination,10
+2018,All,All,Women,Postgraduate only,670
+2018,All,All,Women,Undergraduate only,700
+2019,All,All,Men,Combination,10
+2019,All,All,Men,Postgraduate only,690
+2019,All,All,Men,Undergraduate only,800
+2019,All,All,Women,Combination,20
+2019,All,All,Women,Postgraduate only,1060
+2019,All,All,Women,Undergraduate only,960
+2020,All,All,Men,Combination,20
+2020,All,All,Men,Postgraduate only,770
+2020,All,All,Men,Undergraduate only,860
+2020,All,All,Women,Combination,10
+2020,All,All,Women,Postgraduate only,1170
+2020,All,All,Women,Undergraduate only,930
+2021,All,All,Men,Combination,10
+2021,All,All,Men,Postgraduate only,850
+2021,All,All,Men,Undergraduate only,840
+2021,All,All,Women,Combination,20
+2021,All,All,Women,Postgraduate only,1130
+2021,All,All,Women,Undergraduate only,840
+2022,All,All,Men,Combination,20
+2022,All,All,Men,Postgraduate only,790
+2022,All,All,Men,Undergraduate only,740
+2022,All,All,Women,Combination,10
+2022,All,All,Women,Postgraduate only,1120
+2022,All,All,Women,Undergraduate only,770
+2023,All,All,Men,Combination,20
+2023,All,All,Men,Postgraduate only,840
+2023,All,All,Men,Undergraduate only,800
+2023,All,All,Women,Combination,30
+2023,All,All,Women,Postgraduate only,1130
+2023,All,All,Women,Undergraduate only,840
+2016,All,EU (excluding UK),All,All,450
+2016,All,England,All,All,1550
+2016,All,Northern Ireland,All,All,40
+2016,All,Not EU,All,All,650
+2016,All,Scotland,All,All,330
+2016,All,Wales,All,All,130
+2017,All,EU (excluding UK),All,All,280
+2017,All,England,All,All,940
+2017,All,Northern Ireland,All,All,20
+2017,All,Not EU,All,All,470
+2017,All,Scotland,All,All,190
+2017,All,Wales,All,All,90
+2018,All,EU (excluding UK),All,All,310
+2018,All,England,All,All,1150
+2018,All,Northern Ireland,All,All,20
+2018,All,Not EU,All,All,640
+2018,All,Scotland,All,All,210
+2018,All,Wales,All,All,100
+2019,All,EU (excluding UK),All,All,540
+2019,All,England,All,All,1590
+2019,All,Northern Ireland,All,All,30
+2019,All,Not EU,All,All,1000
+2019,All,Scotland,All,All,270
+2019,All,Wales,All,All,130
+2020,All,EU (excluding UK),All,All,500
+2020,All,England,All,All,1560
+2020,All,Northern Ireland,All,All,30
+2020,All,Not EU,All,All,1250
+2020,All,Scotland,All,All,290
+2020,All,Wales,All,All,140
+2021,All,EU (excluding UK),All,All,420
+2021,All,England,All,All,1500
+2021,All,Northern Ireland,All,All,30
+2021,All,Not EU,All,All,1350
+2021,All,Scotland,All,All,270
+2021,All,Wales,All,All,110
+2022,All,EU (excluding UK),All,All,250
+2022,All,England,All,All,1460
+2022,All,Northern Ireland,All,All,20
+2022,All,Not EU,All,All,1410
+2022,All,Scotland,All,All,210
+2022,All,Wales,All,All,90
+2023,All,EU (excluding UK),All,All,290
+2023,All,England,All,All,1450
+2023,All,Northern Ireland,All,All,30
+2023,All,Not EU,All,All,1580
+2023,All,Scotland,All,All,210
+2023,All,Wales,All,All,110
+2016,All,EU (excluding UK),All,Postgraduate only,240
+2016,All,EU (excluding UK),All,Undergraduate only,220
+2016,All,England,All,Combination,20
+2016,All,England,All,Postgraduate only,600
+2016,All,England,All,Undergraduate only,940
+2016,All,Northern Ireland,All,Postgraduate only,20
+2016,All,Northern Ireland,All,Undergraduate only,20
+2016,All,Not EU,All,Postgraduate only,440
+2016,All,Not EU,All,Undergraduate only,200
+2016,All,Scotland,All,Postgraduate only,80
+2016,All,Scotland,All,Undergraduate only,250
+2016,All,Wales,All,Postgraduate only,40
+2016,All,Wales,All,Undergraduate only,90
+2017,All,EU (excluding UK),All,Postgraduate only,110
+2017,All,EU (excluding UK),All,Undergraduate only,160
+2017,All,England,All,Combination,10
+2017,All,England,All,Postgraduate only,300
+2017,All,England,All,Undergraduate only,640
+2017,All,Northern Ireland,All,Postgraduate only,10
+2017,All,Northern Ireland,All,Undergraduate only,20
+2017,All,Not EU,All,Combination,10
+2017,All,Not EU,All,Postgraduate only,320
+2017,All,Not EU,All,Undergraduate only,140
+2017,All,Scotland,All,Postgraduate only,30
+2017,All,Scotland,All,Undergraduate only,160
+2017,All,Wales,All,Postgraduate only,30
+2017,All,Wales,All,Undergraduate only,70
+2018,All,EU (excluding UK),All,Postgraduate only,140
+2018,All,EU (excluding UK),All,Undergraduate only,160
+2018,All,England,All,Combination,10
+2018,All,England,All,Postgraduate only,400
+2018,All,England,All,Undergraduate only,740
+2018,All,Northern Ireland,All,Postgraduate only,10
+2018,All,Northern Ireland,All,Undergraduate only,20
+2018,All,Not EU,All,Combination,10
+2018,All,Not EU,All,Postgraduate only,430
+2018,All,Not EU,All,Undergraduate only,200
+2018,All,Scotland,All,Postgraduate only,50
+2018,All,Scotland,All,Undergraduate only,160
+2018,All,Wales,All,Postgraduate only,40
+2018,All,Wales,All,Undergraduate only,60
+2019,All,EU (excluding UK),All,Postgraduate only,270
+2019,All,EU (excluding UK),All,Undergraduate only,260
+2019,All,England,All,Combination,20
+2019,All,England,All,Postgraduate only,660
+2019,All,England,All,Undergraduate only,920
+2019,All,Northern Ireland,All,Postgraduate only,10
+2019,All,Northern Ireland,All,Undergraduate only,20
+2019,All,Not EU,All,Combination,10
+2019,All,Not EU,All,Postgraduate only,680
+2019,All,Not EU,All,Undergraduate only,300
+2019,All,Scotland,All,Postgraduate only,70
+2019,All,Scotland,All,Undergraduate only,200
+2019,All,Wales,All,Postgraduate only,60
+2019,All,Wales,All,Undergraduate only,70
+2020,All,EU (excluding UK),All,Postgraduate only,270
+2020,All,EU (excluding UK),All,Undergraduate only,230
+2020,All,England,All,Combination,20
+2020,All,England,All,Postgraduate only,660
+2020,All,England,All,Undergraduate only,890
+2020,All,Northern Ireland,All,Postgraduate only,10
+2020,All,Northern Ireland,All,Undergraduate only,10
+2020,All,Not EU,All,Combination,10
+2020,All,Not EU,All,Postgraduate only,880
+2020,All,Not EU,All,Undergraduate only,360
+2020,All,Scotland,All,Postgraduate only,80
+2020,All,Scotland,All,Undergraduate only,210
+2020,All,Wales,All,Postgraduate only,50
+2020,All,Wales,All,Undergraduate only,90
+2021,All,EU (excluding UK),All,Postgraduate only,230
+2021,All,EU (excluding UK),All,Undergraduate only,190
+2021,All,England,All,Combination,10
+2021,All,England,All,Postgraduate only,660
+2021,All,England,All,Undergraduate only,830
+2021,All,Northern Ireland,All,Postgraduate only,10
+2021,All,Northern Ireland,All,Undergraduate only,10
+2021,All,Not EU,All,Combination,10
+2021,All,Not EU,All,Postgraduate only,920
+2021,All,Not EU,All,Undergraduate only,420
+2021,All,Scotland,All,Postgraduate only,100
+2021,All,Scotland,All,Undergraduate only,170
+2021,All,Wales,All,Postgraduate only,60
+2021,All,Wales,All,Undergraduate only,50
+2022,All,EU (excluding UK),All,Postgraduate only,150
+2022,All,EU (excluding UK),All,Undergraduate only,100
+2022,All,England,All,Combination,20
+2022,All,England,All,Postgraduate only,640
+2022,All,England,All,Undergraduate only,800
+2022,All,Northern Ireland,All,Postgraduate only,10
+2022,All,Northern Ireland,All,Undergraduate only,20
+2022,All,Not EU,All,Combination,10
+2022,All,Not EU,All,Postgraduate only,990
+2022,All,Not EU,All,Undergraduate only,410
+2022,All,Scotland,All,Postgraduate only,80
+2022,All,Scotland,All,Undergraduate only,130
+2022,All,Wales,All,Postgraduate only,40
+2022,All,Wales,All,Undergraduate only,40
+2023,All,EU (excluding UK),All,Postgraduate only,170
+2023,All,EU (excluding UK),All,Undergraduate only,110
+2023,All,England,All,Combination,10
+2023,All,England,All,Postgraduate only,610
+2023,All,England,All,Undergraduate only,830
+2023,All,Northern Ireland,All,Postgraduate only,10
+2023,All,Northern Ireland,All,Undergraduate only,20
+2023,All,Not EU,All,Combination,20
+2023,All,Not EU,All,Postgraduate only,1070
+2023,All,Not EU,All,Undergraduate only,490
+2023,All,Scotland,All,Postgraduate only,70
+2023,All,Scotland,All,Undergraduate only,130
+2023,All,Wales,All,Postgraduate only,50
+2023,All,Wales,All,Undergraduate only,60
+2016,All,EU (excluding UK),Men,All,200
+2016,All,EU (excluding UK),Women,All,260
+2016,All,England,Men,All,760
+2016,All,England,Women,All,800
+2016,All,Northern Ireland,Men,All,20
+2016,All,Northern Ireland,Women,All,30
+2016,All,Not EU,Men,All,220
+2016,All,Not EU,Women,All,430
+2016,All,Scotland,Men,All,160
+2016,All,Scotland,Women,All,180
+2016,All,Wales,Men,All,60
+2016,All,Wales,Women,All,70
+2017,All,EU (excluding UK),Men,All,150
+2017,All,EU (excluding UK),Women,All,130
+2017,All,England,Men,All,450
+2017,All,England,Women,All,500
+2017,All,Northern Ireland,Men,All,10
+2017,All,Northern Ireland,Women,All,10
+2017,All,Not EU,Men,All,170
+2017,All,Not EU,Women,All,310
+2017,All,Scotland,Men,All,90
+2017,All,Scotland,Women,All,100
+2017,All,Wales,Men,All,40
+2017,All,Wales,Women,All,50
+2018,All,EU (excluding UK),Men,All,130
+2018,All,EU (excluding UK),Women,All,180
+2018,All,England,Men,All,530
+2018,All,England,Women,All,620
+2018,All,Northern Ireland,Men,All,10
+2018,All,Northern Ireland,Women,All,10
+2018,All,Not EU,Men,All,230
+2018,All,Not EU,Women,All,410
+2018,All,Scotland,Men,All,100
+2018,All,Scotland,Women,All,110
+2018,All,Wales,Men,All,40
+2018,All,Wales,Women,All,60
+2019,All,EU (excluding UK),Men,All,220
+2019,All,EU (excluding UK),Women,All,320
+2019,All,England,Men,All,740
+2019,All,England,Women,All,850
+2019,All,Northern Ireland,Men,All,10
+2019,All,Northern Ireland,Women,All,20
+2019,All,Not EU,Men,All,360
+2019,All,Not EU,Women,All,640
+2019,All,Scotland,Men,All,120
+2019,All,Scotland,Women,All,140
+2019,All,Wales,Men,All,60
+2019,All,Wales,Women,All,70
+2020,All,EU (excluding UK),Men,All,220
+2020,All,EU (excluding UK),Women,All,280
+2020,All,England,Men,All,770
+2020,All,England,Women,All,790
+2020,All,Northern Ireland,Men,All,10
+2020,All,Northern Ireland,Women,All,20
+2020,All,Not EU,Men,All,450
+2020,All,Not EU,Women,All,800
+2020,All,Scotland,Men,All,140
+2020,All,Scotland,Women,All,160
+2020,All,Wales,Men,All,60
+2020,All,Wales,Women,All,80
+2021,All,EU (excluding UK),Men,All,180
+2021,All,EU (excluding UK),Women,All,240
+2021,All,England,Men,All,770
+2021,All,England,Women,All,740
+2021,All,Northern Ireland,Men,All,10
+2021,All,Northern Ireland,Women,All,20
+2021,All,Not EU,Men,All,560
+2021,All,Not EU,Women,All,800
+2021,All,Scotland,Men,All,140
+2021,All,Scotland,Women,All,130
+2021,All,Wales,Men,All,50
+2021,All,Wales,Women,All,60
+2022,All,EU (excluding UK),Men,All,100
+2022,All,EU (excluding UK),Women,All,150
+2022,All,England,Men,All,730
+2022,All,England,Women,All,730
+2022,All,Northern Ireland,Men,All,10
+2022,All,Northern Ireland,Women,All,10
+2022,All,Not EU,Men,All,550
+2022,All,Not EU,Women,All,860
+2022,All,Scotland,Men,All,110
+2022,All,Scotland,Women,All,100
+2022,All,Wales,Men,All,40
+2022,All,Wales,Women,All,50
+2023,All,EU (excluding UK),Men,All,140
+2023,All,EU (excluding UK),Women,All,150
+2023,All,England,Men,All,730
+2023,All,England,Women,All,720
+2023,All,Northern Ireland,Men,All,10
+2023,All,Northern Ireland,Women,All,10
+2023,All,Not EU,Men,All,630
+2023,All,Not EU,Women,All,950
+2023,All,Scotland,Men,All,100
+2023,All,Scotland,Women,All,110
+2023,All,Wales,Men,All,50
+2023,All,Wales,Women,All,50
+2016,All,EU (excluding UK),Men,Postgraduate only,110
+2016,All,EU (excluding UK),Men,Undergraduate only,90
+2016,All,EU (excluding UK),Women,Postgraduate only,120
+2016,All,EU (excluding UK),Women,Undergraduate only,130
+2016,All,England,Men,Combination,10
+2016,All,England,Men,Postgraduate only,270
+2016,All,England,Men,Undergraduate only,480
+2016,All,England,Women,Combination,10
+2016,All,England,Women,Postgraduate only,330
+2016,All,England,Women,Undergraduate only,460
+2016,All,Northern Ireland,Men,Postgraduate only,10
+2016,All,Northern Ireland,Men,Undergraduate only,10
+2016,All,Northern Ireland,Women,Postgraduate only,10
+2016,All,Northern Ireland,Women,Undergraduate only,10
+2016,All,Not EU,Men,Postgraduate only,140
+2016,All,Not EU,Men,Undergraduate only,80
+2016,All,Not EU,Women,Postgraduate only,310
+2016,All,Not EU,Women,Undergraduate only,120
+2016,All,Scotland,Men,Postgraduate only,40
+2016,All,Scotland,Men,Undergraduate only,120
+2016,All,Scotland,Women,Postgraduate only,50
+2016,All,Scotland,Women,Undergraduate only,130
+2016,All,Wales,Men,Postgraduate only,20
+2016,All,Wales,Men,Undergraduate only,40
+2016,All,Wales,Women,Postgraduate only,20
+2016,All,Wales,Women,Undergraduate only,40
+2017,All,EU (excluding UK),Men,Postgraduate only,60
+2017,All,EU (excluding UK),Men,Undergraduate only,90
+2017,All,EU (excluding UK),Women,Postgraduate only,50
+2017,All,EU (excluding UK),Women,Undergraduate only,80
+2017,All,England,Men,Postgraduate only,130
+2017,All,England,Men,Undergraduate only,320
+2017,All,England,Women,Postgraduate only,180
+2017,All,England,Women,Undergraduate only,320
+2017,All,Northern Ireland,Men,Undergraduate only,10
+2017,All,Northern Ireland,Women,Undergraduate only,10
+2017,All,Not EU,Men,Postgraduate only,110
+2017,All,Not EU,Men,Undergraduate only,60
+2017,All,Not EU,Women,Combination,10
+2017,All,Not EU,Women,Postgraduate only,220
+2017,All,Not EU,Women,Undergraduate only,80
+2017,All,Scotland,Men,Postgraduate only,10
+2017,All,Scotland,Men,Undergraduate only,80
+2017,All,Scotland,Women,Postgraduate only,20
+2017,All,Scotland,Women,Undergraduate only,80
+2017,All,Wales,Men,Postgraduate only,10
+2017,All,Wales,Men,Undergraduate only,30
+2017,All,Wales,Women,Postgraduate only,20
+2017,All,Wales,Women,Undergraduate only,40
+2018,All,EU (excluding UK),Men,Postgraduate only,60
+2018,All,EU (excluding UK),Men,Undergraduate only,70
+2018,All,EU (excluding UK),Women,Postgraduate only,80
+2018,All,EU (excluding UK),Women,Undergraduate only,100
+2018,All,England,Men,Combination,10
+2018,All,England,Men,Postgraduate only,160
+2018,All,England,Men,Undergraduate only,370
+2018,All,England,Women,Postgraduate only,240
+2018,All,England,Women,Undergraduate only,370
+2018,All,Northern Ireland,Men,Undergraduate only,10
+2018,All,Northern Ireland,Women,Postgraduate only,10
+2018,All,Northern Ireland,Women,Undergraduate only,10
+2018,All,Not EU,Men,Postgraduate only,140
+2018,All,Not EU,Men,Undergraduate only,80
+2018,All,Not EU,Women,Postgraduate only,290
+2018,All,Not EU,Women,Undergraduate only,120
+2018,All,Scotland,Men,Postgraduate only,20
+2018,All,Scotland,Men,Undergraduate only,80
+2018,All,Scotland,Women,Postgraduate only,30
+2018,All,Scotland,Women,Undergraduate only,80
+2018,All,Wales,Men,Postgraduate only,10
+2018,All,Wales,Men,Undergraduate only,20
+2018,All,Wales,Women,Postgraduate only,30
+2018,All,Wales,Women,Undergraduate only,30
+2019,All,EU (excluding UK),Men,Postgraduate only,120
+2019,All,EU (excluding UK),Men,Undergraduate only,100
+2019,All,EU (excluding UK),Women,Postgraduate only,160
+2019,All,EU (excluding UK),Women,Undergraduate only,160
+2019,All,England,Men,Combination,10
+2019,All,England,Men,Postgraduate only,270
+2019,All,England,Men,Undergraduate only,460
+2019,All,England,Women,Combination,10
+2019,All,England,Women,Postgraduate only,380
+2019,All,England,Women,Undergraduate only,460
+2019,All,Northern Ireland,Men,Postgraduate only,10
+2019,All,Northern Ireland,Men,Undergraduate only,10
+2019,All,Northern Ireland,Women,Postgraduate only,10
+2019,All,Northern Ireland,Women,Undergraduate only,10
+2019,All,Not EU,Men,Combination,10
+2019,All,Not EU,Men,Postgraduate only,240
+2019,All,Not EU,Men,Undergraduate only,110
+2019,All,Not EU,Women,Combination,10
+2019,All,Not EU,Women,Postgraduate only,440
+2019,All,Not EU,Women,Undergraduate only,190
+2019,All,Scotland,Men,Postgraduate only,30
+2019,All,Scotland,Men,Undergraduate only,90
+2019,All,Scotland,Women,Postgraduate only,40
+2019,All,Scotland,Women,Undergraduate only,100
+2019,All,Wales,Men,Postgraduate only,30
+2019,All,Wales,Men,Undergraduate only,30
+2019,All,Wales,Women,Postgraduate only,30
+2019,All,Wales,Women,Undergraduate only,30
+2020,All,EU (excluding UK),Men,Postgraduate only,110
+2020,All,EU (excluding UK),Men,Undergraduate only,110
+2020,All,EU (excluding UK),Women,Postgraduate only,150
+2020,All,EU (excluding UK),Women,Undergraduate only,130
+2020,All,England,Men,Combination,10
+2020,All,England,Men,Postgraduate only,310
+2020,All,England,Men,Undergraduate only,450
+2020,All,England,Women,Combination,10
+2020,All,England,Women,Postgraduate only,350
+2020,All,England,Women,Undergraduate only,430
+2020,All,Northern Ireland,Men,Postgraduate only,10
+2020,All,Northern Ireland,Men,Undergraduate only,10
+2020,All,Northern Ireland,Women,Postgraduate only,10
+2020,All,Northern Ireland,Women,Undergraduate only,10
+2020,All,Not EU,Men,Combination,10
+2020,All,Not EU,Men,Postgraduate only,290
+2020,All,Not EU,Men,Undergraduate only,150
+2020,All,Not EU,Women,Combination,10
+2020,All,Not EU,Women,Postgraduate only,580
+2020,All,Not EU,Women,Undergraduate only,210
+2020,All,Scotland,Men,Postgraduate only,30
+2020,All,Scotland,Men,Undergraduate only,110
+2020,All,Scotland,Women,Postgraduate only,50
+2020,All,Scotland,Women,Undergraduate only,110
+2020,All,Wales,Men,Postgraduate only,30
+2020,All,Wales,Men,Undergraduate only,30
+2020,All,Wales,Women,Postgraduate only,30
+2020,All,Wales,Women,Undergraduate only,50
+2021,All,EU (excluding UK),Men,Postgraduate only,110
+2021,All,EU (excluding UK),Men,Undergraduate only,70
+2021,All,EU (excluding UK),Women,Postgraduate only,120
+2021,All,EU (excluding UK),Women,Undergraduate only,120
+2021,All,England,Men,Combination,10
+2021,All,England,Men,Postgraduate only,300
+2021,All,England,Men,Undergraduate only,470
+2021,All,England,Women,Combination,10
+2021,All,England,Women,Postgraduate only,360
+2021,All,England,Women,Undergraduate only,360
+2021,All,Northern Ireland,Men,Postgraduate only,10
+2021,All,Northern Ireland,Women,Postgraduate only,10
+2021,All,Northern Ireland,Women,Undergraduate only,10
+2021,All,Not EU,Men,Combination,10
+2021,All,Not EU,Men,Postgraduate only,370
+2021,All,Not EU,Men,Undergraduate only,190
+2021,All,Not EU,Women,Combination,10
+2021,All,Not EU,Women,Postgraduate only,560
+2021,All,Not EU,Women,Undergraduate only,240
+2021,All,Scotland,Men,Postgraduate only,50
+2021,All,Scotland,Men,Undergraduate only,90
+2021,All,Scotland,Women,Postgraduate only,50
+2021,All,Scotland,Women,Undergraduate only,80
+2021,All,Wales,Men,Postgraduate only,30
+2021,All,Wales,Men,Undergraduate only,20
+2021,All,Wales,Women,Postgraduate only,30
+2021,All,Wales,Women,Undergraduate only,30
+2022,All,EU (excluding UK),Men,Postgraduate only,60
+2022,All,EU (excluding UK),Men,Undergraduate only,40
+2022,All,EU (excluding UK),Women,Postgraduate only,90
+2022,All,EU (excluding UK),Women,Undergraduate only,70
+2022,All,England,Men,Combination,10
+2022,All,England,Men,Postgraduate only,300
+2022,All,England,Men,Undergraduate only,420
+2022,All,England,Women,Combination,10
+2022,All,England,Women,Postgraduate only,350
+2022,All,England,Women,Undergraduate only,380
+2022,All,Northern Ireland,Men,Undergraduate only,10
+2022,All,Northern Ireland,Women,Undergraduate only,10
+2022,All,Not EU,Men,Combination,10
+2022,All,Not EU,Men,Postgraduate only,370
+2022,All,Not EU,Men,Undergraduate only,180
+2022,All,Not EU,Women,Combination,10
+2022,All,Not EU,Women,Postgraduate only,620
+2022,All,Not EU,Women,Undergraduate only,240
+2022,All,Scotland,Men,Postgraduate only,30
+2022,All,Scotland,Men,Undergraduate only,80
+2022,All,Scotland,Women,Postgraduate only,40
+2022,All,Scotland,Women,Undergraduate only,60
+2022,All,Wales,Men,Postgraduate only,20
+2022,All,Wales,Men,Undergraduate only,20
+2022,All,Wales,Women,Postgraduate only,20
+2022,All,Wales,Women,Undergraduate only,20
+2023,All,EU (excluding UK),Men,Postgraduate only,90
+2023,All,EU (excluding UK),Men,Undergraduate only,50
+2023,All,EU (excluding UK),Women,Postgraduate only,80
+2023,All,EU (excluding UK),Women,Undergraduate only,70
+2023,All,England,Men,Combination,10
+2023,All,England,Men,Postgraduate only,270
+2023,All,England,Men,Undergraduate only,460
+2023,All,England,Women,Combination,10
+2023,All,England,Women,Postgraduate only,340
+2023,All,England,Women,Undergraduate only,370
+2023,All,Northern Ireland,Men,Postgraduate only,10
+2023,All,Northern Ireland,Men,Undergraduate only,10
+2023,All,Northern Ireland,Women,Undergraduate only,10
+2023,All,Not EU,Men,Combination,10
+2023,All,Not EU,Men,Postgraduate only,430
+2023,All,Not EU,Men,Undergraduate only,190
+2023,All,Not EU,Women,Combination,20
+2023,All,Not EU,Women,Postgraduate only,640
+2023,All,Not EU,Women,Undergraduate only,300
+2023,All,Scotland,Men,Postgraduate only,30
+2023,All,Scotland,Men,Undergraduate only,70
+2023,All,Scotland,Women,Postgraduate only,50
+2023,All,Scotland,Women,Undergraduate only,60
+2023,All,Wales,Men,Postgraduate only,20
+2023,All,Wales,Men,Undergraduate only,30
+2023,All,Wales,Women,Postgraduate only,30
+2023,All,Wales,Women,Undergraduate only,30
+2016,17 and under,All,All,All,40
+2016,18,All,All,All,960
+2016,19,All,All,All,390
+2016,20,All,All,All,130
+2016,21-24,All,All,All,1040
+2016,25-29,All,All,All,470
+2016,30-34,All,All,All,80
+2016,35 and over,All,All,All,40
+2017,17 and under,All,All,All,30
+2017,18,All,All,All,730
+2017,19,All,All,All,260
+2017,20,All,All,All,90
+2017,21-24,All,All,All,630
+2017,25-29,All,All,All,210
+2017,30-34,All,All,All,40
+2017,35 and over,All,All,All,20
+2018,17 and under,All,All,All,30
+2018,18,All,All,All,810
+2018,19,All,All,All,280
+2018,20,All,All,All,100
+2018,21-24,All,All,All,770
+2018,25-29,All,All,All,330
+2018,30-34,All,All,All,60
+2018,35 and over,All,All,All,30
+2019,17 and under,All,All,All,50
+2019,18,All,All,All,1040
+2019,19,All,All,All,380
+2019,20,All,All,All,120
+2019,21-24,All,All,All,1250
+2019,25-29,All,All,All,570
+2019,30-34,All,All,All,70
+2019,35 and over,All,All,All,60
+2020,17 and under,All,All,All,50
+2020,18,All,All,All,1040
+2020,19,All,All,All,400
+2020,20,All,All,All,130
+2020,21-24,All,All,All,1360
+2020,25-29,All,All,All,630
+2020,30-34,All,All,All,100
+2020,35 and over,All,All,All,50
+2021,17 and under,All,All,All,60
+2021,18,All,All,All,1010
+2021,19,All,All,All,350
+2021,20,All,All,All,110
+2021,21-24,All,All,All,1410
+2021,25-29,All,All,All,580
+2021,30-34,All,All,All,110
+2021,35 and over,All,All,All,40
+2022,17 and under,All,All,All,50
+2022,18,All,All,All,990
+2022,19,All,All,All,310
+2022,20,All,All,All,80
+2022,21-24,All,All,All,1330
+2022,25-29,All,All,All,520
+2022,30-34,All,All,All,110
+2022,35 and over,All,All,All,60
+2023,17 and under,All,All,All,60
+2023,18,All,All,All,1010
+2023,19,All,All,All,350
+2023,20,All,All,All,120
+2023,21-24,All,All,All,1390
+2023,25-29,All,All,All,550
+2023,30-34,All,All,All,120
+2023,35 and over,All,All,All,60
+2016,17 and under,All,All,Undergraduate only,40
+2016,18,All,All,Combination,10
+2016,18,All,All,Undergraduate only,950
+2016,19,All,All,Undergraduate only,390
+2016,20,All,All,Postgraduate only,10
+2016,20,All,All,Undergraduate only,120
+2016,21-24,All,All,Postgraduate only,870
+2016,21-24,All,All,Undergraduate only,160
+2016,25-29,All,All,Combination,10
+2016,25-29,All,All,Postgraduate only,430
+2016,25-29,All,All,Undergraduate only,40
+2016,30-34,All,All,Postgraduate only,70
+2016,30-34,All,All,Undergraduate only,10
+2016,35 and over,All,All,Postgraduate only,30
+2016,35 and over,All,All,Undergraduate only,10
+2017,17 and under,All,All,Undergraduate only,30
+2017,18,All,All,Undergraduate only,720
+2017,19,All,All,Undergraduate only,260
+2017,20,All,All,Postgraduate only,10
+2017,20,All,All,Undergraduate only,80
+2017,21-24,All,All,Combination,10
+2017,21-24,All,All,Postgraduate only,550
+2017,21-24,All,All,Undergraduate only,80
+2017,25-29,All,All,Postgraduate only,190
+2017,25-29,All,All,Undergraduate only,20
+2017,30-34,All,All,Postgraduate only,40
+2017,35 and over,All,All,Postgraduate only,20
+2017,35 and over,All,All,Undergraduate only,10
+2018,17 and under,All,All,Undergraduate only,30
+2018,18,All,All,Combination,10
+2018,18,All,All,Postgraduate only,10
+2018,18,All,All,Undergraduate only,800
+2018,19,All,All,Undergraduate only,270
+2018,20,All,All,Undergraduate only,100
+2018,21-24,All,All,Postgraduate only,670
+2018,21-24,All,All,Undergraduate only,100
+2018,25-29,All,All,Postgraduate only,300
+2018,25-29,All,All,Undergraduate only,30
+2018,30-34,All,All,Postgraduate only,60
+2018,30-34,All,All,Undergraduate only,10
+2018,35 and over,All,All,Postgraduate only,20
+2018,35 and over,All,All,Undergraduate only,10
+2019,17 and under,All,All,Undergraduate only,50
+2019,18,All,All,Combination,10
+2019,18,All,All,Undergraduate only,1030
+2019,19,All,All,Combination,10
+2019,19,All,All,Undergraduate only,370
+2019,20,All,All,Postgraduate only,10
+2019,20,All,All,Undergraduate only,110
+2019,21-24,All,All,Combination,10
+2019,21-24,All,All,Postgraduate only,1100
+2019,21-24,All,All,Undergraduate only,140
+2019,25-29,All,All,Postgraduate only,510
+2019,25-29,All,All,Undergraduate only,50
+2019,30-34,All,All,Postgraduate only,70
+2019,30-34,All,All,Undergraduate only,10
+2019,35 and over,All,All,Postgraduate only,50
+2020,17 and under,All,All,Undergraduate only,40
+2020,18,All,All,Combination,20
+2020,18,All,All,Postgraduate only,10
+2020,18,All,All,Undergraduate only,1020
+2020,19,All,All,Undergraduate only,400
+2020,20,All,All,Postgraduate only,10
+2020,20,All,All,Undergraduate only,120
+2020,21-24,All,All,Combination,10
+2020,21-24,All,All,Postgraduate only,1200
+2020,21-24,All,All,Undergraduate only,160
+2020,25-29,All,All,Postgraduate only,590
+2020,25-29,All,All,Undergraduate only,40
+2020,30-34,All,All,Postgraduate only,90
+2020,30-34,All,All,Undergraduate only,10
+2020,35 and over,All,All,Postgraduate only,50
+2021,17 and under,All,All,Undergraduate only,60
+2021,18,All,All,Combination,10
+2021,18,All,All,Postgraduate only,10
+2021,18,All,All,Undergraduate only,1000
+2021,19,All,All,Postgraduate only,10
+2021,19,All,All,Undergraduate only,340
+2021,20,All,All,Postgraduate only,10
+2021,20,All,All,Undergraduate only,100
+2021,21-24,All,All,Combination,10
+2021,21-24,All,All,Postgraduate only,1270
+2021,21-24,All,All,Undergraduate only,140
+2021,25-29,All,All,Postgraduate only,550
+2021,25-29,All,All,Undergraduate only,40
+2021,30-34,All,All,Postgraduate only,90
+2021,30-34,All,All,Undergraduate only,10
+2021,35 and over,All,All,Postgraduate only,40
+2022,17 and under,All,All,Undergraduate only,40
+2022,18,All,All,Combination,20
+2022,18,All,All,Postgraduate only,10
+2022,18,All,All,Undergraduate only,970
+2022,19,All,All,Combination,10
+2022,19,All,All,Undergraduate only,300
+2022,20,All,All,Postgraduate only,10
+2022,20,All,All,Undergraduate only,70
+2022,21-24,All,All,Combination,10
+2022,21-24,All,All,Postgraduate only,1240
+2022,21-24,All,All,Undergraduate only,80
+2022,25-29,All,All,Postgraduate only,490
+2022,25-29,All,All,Undergraduate only,30
+2022,30-34,All,All,Postgraduate only,100
+2022,30-34,All,All,Undergraduate only,10
+2022,35 and over,All,All,Postgraduate only,60
+2022,35 and over,All,All,Undergraduate only,10
+2023,17 and under,All,All,Undergraduate only,60
+2023,18,All,All,Combination,10
+2023,18,All,All,Undergraduate only,990
+2023,19,All,All,Undergraduate only,350
+2023,20,All,All,Postgraduate only,10
+2023,20,All,All,Undergraduate only,100
+2023,21-24,All,All,Combination,10
+2023,21-24,All,All,Postgraduate only,1280
+2023,21-24,All,All,Undergraduate only,90
+2023,25-29,All,All,Combination,10
+2023,25-29,All,All,Postgraduate only,510
+2023,25-29,All,All,Undergraduate only,30
+2023,30-34,All,All,Postgraduate only,100
+2023,30-34,All,All,Undergraduate only,10
+2023,35 and over,All,All,Postgraduate only,50
+2023,35 and over,All,All,Undergraduate only,10
+2016,17 and under,All,Men,All,20
+2016,17 and under,All,Women,All,20
+2016,18,All,Men,All,470
+2016,18,All,Women,All,490
+2016,19,All,Men,All,170
+2016,19,All,Women,All,220
+2016,20,All,Men,All,70
+2016,20,All,Women,All,60
+2016,21-24,All,Men,All,440
+2016,21-24,All,Women,All,600
+2016,25-29,All,Men,All,200
+2016,25-29,All,Women,All,280
+2016,30-34,All,Men,All,40
+2016,30-34,All,Women,All,40
+2016,35 and over,All,Men,All,20
+2016,35 and over,All,Women,All,20
+2017,17 and under,All,Men,All,20
+2017,17 and under,All,Women,All,20
+2017,18,All,Men,All,350
+2017,18,All,Women,All,370
+2017,19,All,Men,All,120
+2017,19,All,Women,All,140
+2017,20,All,Men,All,40
+2017,20,All,Women,All,50
+2017,21-24,All,Men,All,250
+2017,21-24,All,Women,All,380
+2017,25-29,All,Men,All,90
+2017,25-29,All,Women,All,120
+2017,30-34,All,Men,All,20
+2017,30-34,All,Women,All,20
+2017,35 and over,All,Men,All,10
+2017,35 and over,All,Women,All,10
+2018,17 and under,All,Men,All,10
+2018,17 and under,All,Women,All,10
+2018,18,All,Men,All,390
+2018,18,All,Women,All,430
+2018,19,All,Men,All,130
+2018,19,All,Women,All,150
+2018,20,All,Men,All,50
+2018,20,All,Women,All,50
+2018,21-24,All,Men,All,290
+2018,21-24,All,Women,All,490
+2018,25-29,All,Men,All,120
+2018,25-29,All,Women,All,210
+2018,30-34,All,Men,All,20
+2018,30-34,All,Women,All,40
+2018,35 and over,All,Men,All,20
+2018,35 and over,All,Women,All,10
+2019,17 and under,All,Men,All,10
+2019,17 and under,All,Women,All,40
+2019,18,All,Men,All,510
+2019,18,All,Women,All,540
+2019,19,All,Men,All,170
+2019,19,All,Women,All,210
+2019,20,All,Men,All,40
+2019,20,All,Women,All,80
+2019,21-24,All,Men,All,500
+2019,21-24,All,Women,All,750
+2019,25-29,All,Men,All,220
+2019,25-29,All,Women,All,350
+2019,30-34,All,Men,All,40
+2019,30-34,All,Women,All,40
+2019,35 and over,All,Men,All,30
+2019,35 and over,All,Women,All,30
+2020,17 and under,All,Men,All,10
+2020,17 and under,All,Women,All,30
+2020,18,All,Men,All,500
+2020,18,All,Women,All,530
+2020,19,All,Men,All,190
+2020,19,All,Women,All,210
+2020,20,All,Men,All,50
+2020,20,All,Women,All,80
+2020,21-24,All,Men,All,530
+2020,21-24,All,Women,All,840
+2020,25-29,All,Men,All,300
+2020,25-29,All,Women,All,340
+2020,30-34,All,Men,All,40
+2020,30-34,All,Women,All,60
+2020,35 and over,All,Men,All,20
+2020,35 and over,All,Women,All,30
+2021,17 and under,All,Men,All,20
+2021,17 and under,All,Women,All,40
+2021,18,All,Men,All,520
+2021,18,All,Women,All,490
+2021,19,All,Men,All,170
+2021,19,All,Women,All,190
+2021,20,All,Men,All,60
+2021,20,All,Women,All,50
+2021,21-24,All,Men,All,600
+2021,21-24,All,Women,All,820
+2021,25-29,All,Men,All,260
+2021,25-29,All,Women,All,320
+2021,30-34,All,Men,All,50
+2021,30-34,All,Women,All,60
+2021,35 and over,All,Men,All,30
+2021,35 and over,All,Women,All,20
+2022,17 and under,All,Men,All,10
+2022,17 and under,All,Women,All,30
+2022,18,All,Men,All,490
+2022,18,All,Women,All,500
+2022,19,All,Men,All,160
+2022,19,All,Women,All,150
+2022,20,All,Men,All,30
+2022,20,All,Women,All,50
+2022,21-24,All,Men,All,530
+2022,21-24,All,Women,All,800
+2022,25-29,All,Men,All,230
+2022,25-29,All,Women,All,290
+2022,30-34,All,Men,All,50
+2022,30-34,All,Women,All,60
+2022,35 and over,All,Men,All,40
+2022,35 and over,All,Women,All,20
+2023,17 and under,All,Men,All,30
+2023,17 and under,All,Women,All,40
+2023,18,All,Men,All,500
+2023,18,All,Women,All,510
+2023,19,All,Men,All,170
+2023,19,All,Women,All,180
+2023,20,All,Men,All,50
+2023,20,All,Women,All,70
+2023,21-24,All,Men,All,580
+2023,21-24,All,Women,All,810
+2023,25-29,All,Men,All,270
+2023,25-29,All,Women,All,280
+2023,30-34,All,Men,All,50
+2023,30-34,All,Women,All,70
+2023,35 and over,All,Men,All,30
+2023,35 and over,All,Women,All,40
+2016,17 and under,All,Men,Undergraduate only,20
+2016,17 and under,All,Women,Undergraduate only,20
+2016,18,All,Men,Undergraduate only,460
+2016,18,All,Women,Undergraduate only,490
+2016,19,All,Men,Undergraduate only,160
+2016,19,All,Women,Undergraduate only,220
+2016,20,All,Men,Undergraduate only,60
+2016,20,All,Women,Postgraduate only,10
+2016,20,All,Women,Undergraduate only,60
+2016,21-24,All,Men,Postgraduate only,350
+2016,21-24,All,Men,Undergraduate only,80
+2016,21-24,All,Women,Postgraduate only,520
+2016,21-24,All,Women,Undergraduate only,80
+2016,25-29,All,Men,Postgraduate only,170
+2016,25-29,All,Men,Undergraduate only,20
+2016,25-29,All,Women,Postgraduate only,260
+2016,25-29,All,Women,Undergraduate only,20
+2016,30-34,All,Men,Postgraduate only,40
+2016,30-34,All,Women,Postgraduate only,40
+2016,35 and over,All,Men,Postgraduate only,20
+2016,35 and over,All,Men,Undergraduate only,10
+2016,35 and over,All,Women,Postgraduate only,20
+2017,17 and under,All,Men,Undergraduate only,10
+2017,17 and under,All,Women,Undergraduate only,20
+2017,18,All,Men,Undergraduate only,350
+2017,18,All,Women,Undergraduate only,370
+2017,19,All,Men,Undergraduate only,120
+2017,19,All,Women,Undergraduate only,130
+2017,20,All,Men,Undergraduate only,40
+2017,20,All,Women,Undergraduate only,40
+2017,21-24,All,Men,Postgraduate only,200
+2017,21-24,All,Men,Undergraduate only,40
+2017,21-24,All,Women,Combination,10
+2017,21-24,All,Women,Postgraduate only,350
+2017,21-24,All,Women,Undergraduate only,30
+2017,25-29,All,Men,Postgraduate only,80
+2017,25-29,All,Men,Undergraduate only,10
+2017,25-29,All,Women,Postgraduate only,110
+2017,25-29,All,Women,Undergraduate only,10
+2017,30-34,All,Men,Postgraduate only,20
+2017,30-34,All,Women,Postgraduate only,20
+2017,35 and over,All,Men,Postgraduate only,10
+2017,35 and over,All,Women,Postgraduate only,10
+2018,17 and under,All,Men,Undergraduate only,10
+2018,17 and under,All,Women,Undergraduate only,10
+2018,18,All,Men,Combination,10
+2018,18,All,Men,Undergraduate only,380
+2018,18,All,Women,Combination,10
+2018,18,All,Women,Undergraduate only,420
+2018,19,All,Men,Undergraduate only,130
+2018,19,All,Women,Undergraduate only,140
+2018,20,All,Men,Undergraduate only,50
+2018,20,All,Women,Undergraduate only,50
+2018,21-24,All,Men,Postgraduate only,250
+2018,21-24,All,Men,Undergraduate only,40
+2018,21-24,All,Women,Postgraduate only,430
+2018,21-24,All,Women,Undergraduate only,60
+2018,25-29,All,Men,Postgraduate only,110
+2018,25-29,All,Men,Undergraduate only,10
+2018,25-29,All,Women,Postgraduate only,190
+2018,25-29,All,Women,Undergraduate only,20
+2018,30-34,All,Men,Postgraduate only,20
+2018,30-34,All,Women,Postgraduate only,40
+2018,35 and over,All,Men,Postgraduate only,10
+2018,35 and over,All,Men,Undergraduate only,10
+2018,35 and over,All,Women,Postgraduate only,10
+2019,17 and under,All,Men,Undergraduate only,10
+2019,17 and under,All,Women,Undergraduate only,40
+2019,18,All,Men,Combination,10
+2019,18,All,Men,Undergraduate only,500
+2019,18,All,Women,Combination,10
+2019,18,All,Women,Undergraduate only,530
+2019,19,All,Men,Undergraduate only,160
+2019,19,All,Women,Undergraduate only,210
+2019,20,All,Men,Undergraduate only,40
+2019,20,All,Women,Postgraduate only,10
+2019,20,All,Women,Undergraduate only,70
+2019,21-24,All,Men,Postgraduate only,430
+2019,21-24,All,Men,Undergraduate only,60
+2019,21-24,All,Women,Postgraduate only,670
+2019,21-24,All,Women,Undergraduate only,80
+2019,25-29,All,Men,Postgraduate only,190
+2019,25-29,All,Men,Undergraduate only,20
+2019,25-29,All,Women,Postgraduate only,320
+2019,25-29,All,Women,Undergraduate only,30
+2019,30-34,All,Men,Postgraduate only,30
+2019,30-34,All,Women,Postgraduate only,30
+2019,35 and over,All,Men,Postgraduate only,20
+2019,35 and over,All,Women,Postgraduate only,30
+2020,17 and under,All,Men,Undergraduate only,10
+2020,17 and under,All,Women,Undergraduate only,30
+2020,18,All,Men,Combination,10
+2020,18,All,Men,Undergraduate only,490
+2020,18,All,Women,Combination,10
+2020,18,All,Women,Undergraduate only,520
+2020,19,All,Men,Undergraduate only,190
+2020,19,All,Women,Undergraduate only,210
+2020,20,All,Men,Undergraduate only,50
+2020,20,All,Women,Postgraduate only,10
+2020,20,All,Women,Undergraduate only,70
+2020,21-24,All,Men,Combination,10
+2020,21-24,All,Men,Postgraduate only,440
+2020,21-24,All,Men,Undergraduate only,80
+2020,21-24,All,Women,Postgraduate only,760
+2020,21-24,All,Women,Undergraduate only,80
+2020,25-29,All,Men,Postgraduate only,270
+2020,25-29,All,Men,Undergraduate only,30
+2020,25-29,All,Women,Postgraduate only,320
+2020,25-29,All,Women,Undergraduate only,10
+2020,30-34,All,Men,Postgraduate only,40
+2020,30-34,All,Women,Postgraduate only,50
+2020,35 and over,All,Men,Postgraduate only,20
+2020,35 and over,All,Women,Postgraduate only,30
+2021,17 and under,All,Men,Undergraduate only,20
+2021,17 and under,All,Women,Undergraduate only,40
+2021,18,All,Men,Combination,10
+2021,18,All,Men,Undergraduate only,520
+2021,18,All,Women,Combination,10
+2021,18,All,Women,Undergraduate only,480
+2021,19,All,Men,Undergraduate only,160
+2021,19,All,Women,Undergraduate only,180
+2021,20,All,Men,Undergraduate only,50
+2021,20,All,Women,Postgraduate only,10
+2021,20,All,Women,Undergraduate only,40
+2021,21-24,All,Men,Postgraduate only,530
+2021,21-24,All,Men,Undergraduate only,60
+2021,21-24,All,Women,Postgraduate only,740
+2021,21-24,All,Women,Undergraduate only,70
+2021,25-29,All,Men,Postgraduate only,240
+2021,25-29,All,Men,Undergraduate only,20
+2021,25-29,All,Women,Postgraduate only,310
+2021,25-29,All,Women,Undergraduate only,10
+2021,30-34,All,Men,Postgraduate only,40
+2021,30-34,All,Men,Undergraduate only,10
+2021,30-34,All,Women,Postgraduate only,50
+2021,30-34,All,Women,Undergraduate only,10
+2021,35 and over,All,Men,Postgraduate only,20
+2021,35 and over,All,Women,Postgraduate only,20
+2022,17 and under,All,Men,Undergraduate only,10
+2022,17 and under,All,Women,Undergraduate only,30
+2022,18,All,Men,Combination,10
+2022,18,All,Men,Postgraduate only,10
+2022,18,All,Men,Undergraduate only,480
+2022,18,All,Women,Combination,10
+2022,18,All,Women,Undergraduate only,490
+2022,19,All,Men,Undergraduate only,150
+2022,19,All,Women,Undergraduate only,150
+2022,20,All,Men,Undergraduate only,30
+2022,20,All,Women,Postgraduate only,10
+2022,20,All,Women,Undergraduate only,50
+2022,21-24,All,Men,Postgraduate only,490
+2022,21-24,All,Men,Undergraduate only,40
+2022,21-24,All,Women,Postgraduate only,760
+2022,21-24,All,Women,Undergraduate only,40
+2022,25-29,All,Men,Postgraduate only,210
+2022,25-29,All,Men,Undergraduate only,20
+2022,25-29,All,Women,Postgraduate only,280
+2022,25-29,All,Women,Undergraduate only,10
+2022,30-34,All,Men,Postgraduate only,50
+2022,30-34,All,Men,Undergraduate only,10
+2022,30-34,All,Women,Postgraduate only,60
+2022,35 and over,All,Men,Postgraduate only,30
+2022,35 and over,All,Men,Undergraduate only,10
+2022,35 and over,All,Women,Postgraduate only,20
+2023,17 and under,All,Men,Undergraduate only,20
+2023,17 and under,All,Women,Undergraduate only,30
+2023,18,All,Men,Undergraduate only,490
+2023,18,All,Women,Combination,10
+2023,18,All,Women,Undergraduate only,500
+2023,19,All,Men,Undergraduate only,170
+2023,19,All,Women,Undergraduate only,180
+2023,20,All,Men,Undergraduate only,50
+2023,20,All,Women,Postgraduate only,10
+2023,20,All,Women,Undergraduate only,60
+2023,21-24,All,Men,Combination,10
+2023,21-24,All,Men,Postgraduate only,520
+2023,21-24,All,Men,Undergraduate only,50
+2023,21-24,All,Women,Combination,10
+2023,21-24,All,Women,Postgraduate only,760
+2023,21-24,All,Women,Undergraduate only,40
+2023,25-29,All,Men,Postgraduate only,250
+2023,25-29,All,Men,Undergraduate only,10
+2023,25-29,All,Women,Postgraduate only,260
+2023,25-29,All,Women,Undergraduate only,20
+2023,30-34,All,Men,Postgraduate only,40
+2023,30-34,All,Women,Postgraduate only,60
+2023,35 and over,All,Men,Postgraduate only,20
+2023,35 and over,All,Women,Postgraduate only,30
+2016,17 and under,EU (excluding UK),All,All,20
+2016,17 and under,England,All,All,10
+2016,17 and under,Not EU,All,All,10
+2016,17 and under,Scotland,All,All,10
+2016,18,EU (excluding UK),All,All,60
+2016,18,England,All,All,610
+2016,18,Northern Ireland,All,All,20
+2016,18,Not EU,All,All,80
+2016,18,Scotland,All,All,130
+2016,18,Wales,All,All,60
+2016,19,EU (excluding UK),All,All,40
+2016,19,England,All,All,220
+2016,19,Not EU,All,All,60
+2016,19,Scotland,All,All,50
+2016,19,Wales,All,All,20
+2016,20,EU (excluding UK),All,All,30
+2016,20,England,All,All,50
+2016,20,Not EU,All,All,20
+2016,20,Scotland,All,All,30
+2016,21-24,EU (excluding UK),All,All,170
+2016,21-24,England,All,All,440
+2016,21-24,Northern Ireland,All,All,20
+2016,21-24,Not EU,All,All,300
+2016,21-24,Scotland,All,All,70
+2016,21-24,Wales,All,All,40
+2016,25-29,EU (excluding UK),All,All,110
+2016,25-29,England,All,All,180
+2016,25-29,Not EU,All,All,140
+2016,25-29,Scotland,All,All,40
+2016,25-29,Wales,All,All,10
+2016,30-34,EU (excluding UK),All,All,20
+2016,30-34,England,All,All,30
+2016,30-34,Not EU,All,All,30
+2016,35 and over,EU (excluding UK),All,All,10
+2016,35 and over,England,All,All,10
+2016,35 and over,Not EU,All,All,10
+2016,35 and over,Scotland,All,All,10
+2017,17 and under,EU (excluding UK),All,All,10
+2017,17 and under,Not EU,All,All,10
+2017,18,EU (excluding UK),All,All,60
+2017,18,England,All,All,450
+2017,18,Northern Ireland,All,All,10
+2017,18,Not EU,All,All,60
+2017,18,Scotland,All,All,110
+2017,18,Wales,All,All,40
+2017,19,EU (excluding UK),All,All,40
+2017,19,England,All,All,130
+2017,19,Not EU,All,All,40
+2017,19,Scotland,All,All,30
+2017,19,Wales,All,All,20
+2017,20,EU (excluding UK),All,All,20
+2017,20,England,All,All,40
+2017,20,Not EU,All,All,20
+2017,20,Scotland,All,All,10
+2017,21-24,EU (excluding UK),All,All,100
+2017,21-24,England,All,All,220
+2017,21-24,Northern Ireland,All,All,10
+2017,21-24,Not EU,All,All,250
+2017,21-24,Scotland,All,All,30
+2017,21-24,Wales,All,All,30
+2017,25-29,EU (excluding UK),All,All,30
+2017,25-29,England,All,All,80
+2017,25-29,Not EU,All,All,90
+2017,25-29,Scotland,All,All,10
+2017,25-29,Wales,All,All,10
+2017,30-34,EU (excluding UK),All,All,10
+2017,30-34,England,All,All,10
+2017,30-34,Not EU,All,All,10
+2017,35 and over,England,All,All,10
+2017,35 and over,Not EU,All,All,10
+2018,17 and under,EU (excluding UK),All,All,20
+2018,17 and under,Not EU,All,All,10
+2018,18,EU (excluding UK),All,All,50
+2018,18,England,All,All,530
+2018,18,Northern Ireland,All,All,10
+2018,18,Not EU,All,All,90
+2018,18,Scotland,All,All,80
+2018,18,Wales,All,All,40
+2018,19,EU (excluding UK),All,All,50
+2018,19,England,All,All,140
+2018,19,Not EU,All,All,40
+2018,19,Scotland,All,All,40
+2018,19,Wales,All,All,10
+2018,20,EU (excluding UK),All,All,20
+2018,20,England,All,All,40
+2018,20,Not EU,All,All,20
+2018,20,Scotland,All,All,20
+2018,21-24,EU (excluding UK),All,All,110
+2018,21-24,England,All,All,280
+2018,21-24,Northern Ireland,All,All,10
+2018,21-24,Not EU,All,All,310
+2018,21-24,Scotland,All,All,40
+2018,21-24,Wales,All,All,30
+2018,25-29,EU (excluding UK),All,All,50
+2018,25-29,England,All,All,120
+2018,25-29,Not EU,All,All,130
+2018,25-29,Scotland,All,All,20
+2018,25-29,Wales,All,All,10
+2018,30-34,EU (excluding UK),All,All,10
+2018,30-34,England,All,All,20
+2018,30-34,Not EU,All,All,30
+2018,35 and over,England,All,All,10
+2018,35 and over,Not EU,All,All,10
+2019,17 and under,EU (excluding UK),All,All,20
+2019,17 and under,England,All,All,10
+2019,17 and under,Not EU,All,All,20
+2019,18,EU (excluding UK),All,All,70
+2019,18,England,All,All,660
+2019,18,Northern Ireland,All,All,10
+2019,18,Not EU,All,All,140
+2019,18,Scotland,All,All,110
+2019,18,Wales,All,All,50
+2019,19,EU (excluding UK),All,All,80
+2019,19,England,All,All,180
+2019,19,Northern Ireland,All,All,10
+2019,19,Not EU,All,All,70
+2019,19,Scotland,All,All,40
+2019,19,Wales,All,All,10
+2019,20,EU (excluding UK),All,All,30
+2019,20,England,All,All,40
+2019,20,Not EU,All,All,30
+2019,20,Scotland,All,All,10
+2019,21-24,EU (excluding UK),All,All,210
+2019,21-24,England,All,All,430
+2019,21-24,Northern Ireland,All,All,10
+2019,21-24,Not EU,All,All,490
+2019,21-24,Scotland,All,All,70
+2019,21-24,Wales,All,All,40
+2019,25-29,EU (excluding UK),All,All,110
+2019,25-29,England,All,All,220
+2019,25-29,Not EU,All,All,190
+2019,25-29,Scotland,All,All,30
+2019,25-29,Wales,All,All,20
+2019,30-34,EU (excluding UK),All,All,10
+2019,30-34,England,All,All,20
+2019,30-34,Not EU,All,All,40
+2019,35 and over,EU (excluding UK),All,All,10
+2019,35 and over,England,All,All,30
+2019,35 and over,Not EU,All,All,20
+2020,17 and under,EU (excluding UK),All,All,10
+2020,17 and under,Not EU,All,All,30
+2020,18,EU (excluding UK),All,All,80
+2020,18,England,All,All,620
+2020,18,Northern Ireland,All,All,10
+2020,18,Not EU,All,All,160
+2020,18,Scotland,All,All,120
+2020,18,Wales,All,All,60
+2020,19,EU (excluding UK),All,All,70
+2020,19,England,All,All,180
+2020,19,Not EU,All,All,90
+2020,19,Scotland,All,All,50
+2020,19,Wales,All,All,20
+2020,20,EU (excluding UK),All,All,30
+2020,20,England,All,All,40
+2020,20,Not EU,All,All,40
+2020,20,Scotland,All,All,20
+2020,21-24,EU (excluding UK),All,All,180
+2020,21-24,England,All,All,440
+2020,21-24,Northern Ireland,All,All,10
+2020,21-24,Not EU,All,All,630
+2020,21-24,Scotland,All,All,60
+2020,21-24,Wales,All,All,40
+2020,25-29,EU (excluding UK),All,All,110
+2020,25-29,England,All,All,220
+2020,25-29,Not EU,All,All,260
+2020,25-29,Scotland,All,All,30
+2020,25-29,Wales,All,All,10
+2020,30-34,EU (excluding UK),All,All,20
+2020,30-34,England,All,All,40
+2020,30-34,Not EU,All,All,40
+2020,30-34,Scotland,All,All,10
+2020,35 and over,England,All,All,30
+2020,35 and over,Not EU,All,All,20
+2020,35 and over,Scotland,All,All,10
+2021,17 and under,EU (excluding UK),All,All,20
+2021,17 and under,Not EU,All,All,40
+2021,18,EU (excluding UK),All,All,70
+2021,18,England,All,All,600
+2021,18,Northern Ireland,All,All,10
+2021,18,Not EU,All,All,210
+2021,18,Scotland,All,All,100
+2021,18,Wales,All,All,30
+2021,19,EU (excluding UK),All,All,40
+2021,19,England,All,All,160
+2021,19,Not EU,All,All,90
+2021,19,Scotland,All,All,40
+2021,19,Wales,All,All,20
+2021,20,EU (excluding UK),All,All,20
+2021,20,England,All,All,40
+2021,20,Not EU,All,All,40
+2021,20,Scotland,All,All,10
+2021,21-24,EU (excluding UK),All,All,160
+2021,21-24,England,All,All,450
+2021,21-24,Northern Ireland,All,All,10
+2021,21-24,Not EU,All,All,670
+2021,21-24,Scotland,All,All,80
+2021,21-24,Wales,All,All,50
+2021,25-29,EU (excluding UK),All,All,90
+2021,25-29,England,All,All,190
+2021,25-29,Northern Ireland,All,All,10
+2021,25-29,Not EU,All,All,250
+2021,25-29,Scotland,All,All,30
+2021,25-29,Wales,All,All,10
+2021,30-34,EU (excluding UK),All,All,10
+2021,30-34,England,All,All,40
+2021,30-34,Not EU,All,All,50
+2021,30-34,Scotland,All,All,10
+2021,35 and over,England,All,All,20
+2021,35 and over,Not EU,All,All,20
+2022,17 and under,EU (excluding UK),All,All,10
+2022,17 and under,Not EU,All,All,40
+2022,18,EU (excluding UK),All,All,50
+2022,18,England,All,All,610
+2022,18,Northern Ireland,All,All,20
+2022,18,Not EU,All,All,200
+2022,18,Scotland,All,All,80
+2022,18,Wales,All,All,30
+2022,19,EU (excluding UK),All,All,20
+2022,19,England,All,All,150
+2022,19,Not EU,All,All,100
+2022,19,Scotland,All,All,30
+2022,19,Wales,All,All,10
+2022,20,EU (excluding UK),All,All,10
+2022,20,England,All,All,30
+2022,20,Not EU,All,All,30
+2022,20,Scotland,All,All,10
+2022,21-24,EU (excluding UK),All,All,90
+2022,21-24,England,All,All,400
+2022,21-24,Northern Ireland,All,All,10
+2022,21-24,Not EU,All,All,750
+2022,21-24,Scotland,All,All,60
+2022,21-24,Wales,All,All,30
+2022,25-29,EU (excluding UK),All,All,60
+2022,25-29,England,All,All,200
+2022,25-29,Not EU,All,All,230
+2022,25-29,Scotland,All,All,20
+2022,25-29,Wales,All,All,10
+2022,30-34,England,All,All,50
+2022,30-34,Not EU,All,All,50
+2022,30-34,Scotland,All,All,10
+2022,35 and over,England,All,All,30
+2022,35 and over,Not EU,All,All,30
+2023,17 and under,EU (excluding UK),All,All,10
+2023,17 and under,England,All,All,10
+2023,17 and under,Not EU,All,All,40
+2023,18,EU (excluding UK),All,All,40
+2023,18,England,All,All,590
+2023,18,Northern Ireland,All,All,20
+2023,18,Not EU,All,All,240
+2023,18,Scotland,All,All,80
+2023,18,Wales,All,All,40
+2023,19,EU (excluding UK),All,All,30
+2023,19,England,All,All,160
+2023,19,Not EU,All,All,120
+2023,19,Scotland,All,All,30
+2023,19,Wales,All,All,10
+2023,20,EU (excluding UK),All,All,20
+2023,20,England,All,All,40
+2023,20,Not EU,All,All,40
+2023,20,Scotland,All,All,10
+2023,21-24,EU (excluding UK),All,All,120
+2023,21-24,England,All,All,410
+2023,21-24,Not EU,All,All,760
+2023,21-24,Scotland,All,All,50
+2023,21-24,Wales,All,All,30
+2023,25-29,EU (excluding UK),All,All,60
+2023,25-29,England,All,All,170
+2023,25-29,Not EU,All,All,280
+2023,25-29,Scotland,All,All,20
+2023,25-29,Wales,All,All,10
+2023,30-34,EU (excluding UK),All,All,10
+2023,30-34,England,All,All,40
+2023,30-34,Not EU,All,All,60
+2023,30-34,Scotland,All,All,10
+2023,35 and over,England,All,All,30
+2023,35 and over,Not EU,All,All,30
+2016,17 and under,EU (excluding UK),All,Undergraduate only,20
+2016,17 and under,England,All,Undergraduate only,10
+2016,17 and under,Not EU,All,Undergraduate only,10
+2016,17 and under,Scotland,All,Undergraduate only,10
+2016,18,EU (excluding UK),All,Undergraduate only,60
+2016,18,England,All,Combination,10
+2016,18,England,All,Undergraduate only,600
+2016,18,Northern Ireland,All,Undergraduate only,20
+2016,18,Not EU,All,Undergraduate only,80
+2016,18,Scotland,All,Undergraduate only,130
+2016,18,Wales,All,Undergraduate only,60
+2016,19,EU (excluding UK),All,Undergraduate only,40
+2016,19,England,All,Undergraduate only,220
+2016,19,Not EU,All,Undergraduate only,50
+2016,19,Scotland,All,Undergraduate only,50
+2016,19,Wales,All,Undergraduate only,20
+2016,20,EU (excluding UK),All,Undergraduate only,20
+2016,20,England,All,Undergraduate only,50
+2016,20,Not EU,All,Postgraduate only,10
+2016,20,Not EU,All,Undergraduate only,20
+2016,20,Scotland,All,Undergraduate only,30
+2016,21-24,EU (excluding UK),All,Postgraduate only,120
+2016,21-24,EU (excluding UK),All,Undergraduate only,50
+2016,21-24,England,All,Postgraduate only,390
+2016,21-24,England,All,Undergraduate only,50
+2016,21-24,Northern Ireland,All,Postgraduate only,20
+2016,21-24,Not EU,All,Postgraduate only,270
+2016,21-24,Not EU,All,Undergraduate only,30
+2016,21-24,Scotland,All,Postgraduate only,50
+2016,21-24,Scotland,All,Undergraduate only,20
+2016,21-24,Wales,All,Postgraduate only,30
+2016,25-29,EU (excluding UK),All,Postgraduate only,90
+2016,25-29,EU (excluding UK),All,Undergraduate only,20
+2016,25-29,England,All,Postgraduate only,170
+2016,25-29,England,All,Undergraduate only,10
+2016,25-29,Not EU,All,Postgraduate only,130
+2016,25-29,Not EU,All,Undergraduate only,10
+2016,25-29,Scotland,All,Postgraduate only,30
+2016,25-29,Scotland,All,Undergraduate only,10
+2016,25-29,Wales,All,Postgraduate only,10
+2016,30-34,EU (excluding UK),All,Postgraduate only,10
+2016,30-34,England,All,Postgraduate only,30
+2016,30-34,Not EU,All,Postgraduate only,20
+2016,35 and over,EU (excluding UK),All,Postgraduate only,10
+2016,35 and over,England,All,Postgraduate only,10
+2016,35 and over,Not EU,All,Postgraduate only,10
+2017,17 and under,EU (excluding UK),All,Undergraduate only,10
+2017,17 and under,Not EU,All,Undergraduate only,10
+2017,18,EU (excluding UK),All,Undergraduate only,60
+2017,18,England,All,Undergraduate only,450
+2017,18,Northern Ireland,All,Undergraduate only,10
+2017,18,Not EU,All,Undergraduate only,60
+2017,18,Scotland,All,Undergraduate only,110
+2017,18,Wales,All,Undergraduate only,40
+2017,19,EU (excluding UK),All,Undergraduate only,40
+2017,19,England,All,Undergraduate only,130
+2017,19,Not EU,All,Undergraduate only,40
+2017,19,Scotland,All,Undergraduate only,30
+2017,19,Wales,All,Undergraduate only,20
+2017,20,EU (excluding UK),All,Undergraduate only,20
+2017,20,England,All,Undergraduate only,30
+2017,20,Not EU,All,Undergraduate only,10
+2017,20,Scotland,All,Undergraduate only,10
+2017,21-24,EU (excluding UK),All,Postgraduate only,80
+2017,21-24,EU (excluding UK),All,Undergraduate only,20
+2017,21-24,England,All,Postgraduate only,200
+2017,21-24,England,All,Undergraduate only,20
+2017,21-24,Northern Ireland,All,Postgraduate only,10
+2017,21-24,Not EU,All,Postgraduate only,220
+2017,21-24,Not EU,All,Undergraduate only,20
+2017,21-24,Scotland,All,Postgraduate only,20
+2017,21-24,Scotland,All,Undergraduate only,10
+2017,21-24,Wales,All,Postgraduate only,20
+2017,21-24,Wales,All,Undergraduate only,10
+2017,25-29,EU (excluding UK),All,Postgraduate only,20
+2017,25-29,EU (excluding UK),All,Undergraduate only,10
+2017,25-29,England,All,Postgraduate only,80
+2017,25-29,Not EU,All,Postgraduate only,80
+2017,25-29,Not EU,All,Undergraduate only,10
+2017,25-29,Scotland,All,Postgraduate only,10
+2017,25-29,Wales,All,Postgraduate only,10
+2017,30-34,EU (excluding UK),All,Postgraduate only,10
+2017,30-34,England,All,Postgraduate only,10
+2017,30-34,Not EU,All,Postgraduate only,10
+2017,35 and over,England,All,Postgraduate only,10
+2018,17 and under,EU (excluding UK),All,Undergraduate only,20
+2018,17 and under,Not EU,All,Undergraduate only,10
+2018,18,EU (excluding UK),All,Undergraduate only,50
+2018,18,England,All,Combination,10
+2018,18,England,All,Undergraduate only,520
+2018,18,Northern Ireland,All,Undergraduate only,10
+2018,18,Not EU,All,Undergraduate only,90
+2018,18,Scotland,All,Undergraduate only,80
+2018,18,Wales,All,Undergraduate only,40
+2018,19,EU (excluding UK),All,Undergraduate only,40
+2018,19,England,All,Undergraduate only,140
+2018,19,Not EU,All,Undergraduate only,40
+2018,19,Scotland,All,Undergraduate only,40
+2018,19,Wales,All,Undergraduate only,10
+2018,20,EU (excluding UK),All,Undergraduate only,20
+2018,20,England,All,Undergraduate only,40
+2018,20,Not EU,All,Undergraduate only,20
+2018,20,Scotland,All,Undergraduate only,20
+2018,21-24,EU (excluding UK),All,Postgraduate only,80
+2018,21-24,EU (excluding UK),All,Undergraduate only,30
+2018,21-24,England,All,Postgraduate only,260
+2018,21-24,England,All,Undergraduate only,30
+2018,21-24,Not EU,All,Postgraduate only,280
+2018,21-24,Not EU,All,Undergraduate only,30
+2018,21-24,Scotland,All,Postgraduate only,30
+2018,21-24,Scotland,All,Undergraduate only,10
+2018,21-24,Wales,All,Postgraduate only,30
+2018,25-29,EU (excluding UK),All,Postgraduate only,50
+2018,25-29,EU (excluding UK),All,Undergraduate only,10
+2018,25-29,England,All,Postgraduate only,110
+2018,25-29,England,All,Undergraduate only,10
+2018,25-29,Not EU,All,Postgraduate only,120
+2018,25-29,Not EU,All,Undergraduate only,10
+2018,25-29,Scotland,All,Postgraduate only,10
+2018,25-29,Wales,All,Postgraduate only,10
+2018,30-34,EU (excluding UK),All,Postgraduate only,10
+2018,30-34,England,All,Postgraduate only,20
+2018,30-34,Not EU,All,Postgraduate only,30
+2018,35 and over,England,All,Postgraduate only,10
+2018,35 and over,Not EU,All,Postgraduate only,10
+2019,17 and under,EU (excluding UK),All,Undergraduate only,20
+2019,17 and under,England,All,Undergraduate only,10
+2019,17 and under,Not EU,All,Undergraduate only,20
+2019,18,EU (excluding UK),All,Undergraduate only,70
+2019,18,England,All,Combination,10
+2019,18,England,All,Undergraduate only,650
+2019,18,Northern Ireland,All,Undergraduate only,10
+2019,18,Not EU,All,Undergraduate only,140
+2019,18,Scotland,All,Undergraduate only,110
+2019,18,Wales,All,Undergraduate only,50
+2019,19,EU (excluding UK),All,Undergraduate only,70
+2019,19,England,All,Undergraduate only,180
+2019,19,Northern Ireland,All,Undergraduate only,10
+2019,19,Not EU,All,Undergraduate only,70
+2019,19,Scotland,All,Undergraduate only,40
+2019,19,Wales,All,Undergraduate only,10
+2019,20,EU (excluding UK),All,Undergraduate only,30
+2019,20,England,All,Undergraduate only,40
+2019,20,Not EU,All,Undergraduate only,30
+2019,20,Scotland,All,Undergraduate only,10
+2019,21-24,EU (excluding UK),All,Postgraduate only,170
+2019,21-24,EU (excluding UK),All,Undergraduate only,40
+2019,21-24,England,All,Postgraduate only,400
+2019,21-24,England,All,Undergraduate only,30
+2019,21-24,Northern Ireland,All,Postgraduate only,10
+2019,21-24,Not EU,All,Postgraduate only,440
+2019,21-24,Not EU,All,Undergraduate only,40
+2019,21-24,Scotland,All,Postgraduate only,50
+2019,21-24,Scotland,All,Undergraduate only,20
+2019,21-24,Wales,All,Postgraduate only,40
+2019,25-29,EU (excluding UK),All,Postgraduate only,90
+2019,25-29,EU (excluding UK),All,Undergraduate only,20
+2019,25-29,England,All,Postgraduate only,210
+2019,25-29,England,All,Undergraduate only,10
+2019,25-29,Not EU,All,Postgraduate only,180
+2019,25-29,Not EU,All,Undergraduate only,10
+2019,25-29,Scotland,All,Postgraduate only,20
+2019,25-29,Scotland,All,Undergraduate only,10
+2019,25-29,Wales,All,Postgraduate only,20
+2019,30-34,EU (excluding UK),All,Postgraduate only,10
+2019,30-34,England,All,Postgraduate only,20
+2019,30-34,Not EU,All,Postgraduate only,40
+2019,35 and over,EU (excluding UK),All,Postgraduate only,10
+2019,35 and over,England,All,Postgraduate only,20
+2019,35 and over,Not EU,All,Postgraduate only,20
+2020,17 and under,EU (excluding UK),All,Undergraduate only,10
+2020,17 and under,Not EU,All,Undergraduate only,30
+2020,18,EU (excluding UK),All,Undergraduate only,70
+2020,18,England,All,Combination,10
+2020,18,England,All,Undergraduate only,610
+2020,18,Northern Ireland,All,Undergraduate only,10
+2020,18,Not EU,All,Undergraduate only,150
+2020,18,Scotland,All,Undergraduate only,120
+2020,18,Wales,All,Undergraduate only,60
+2020,19,EU (excluding UK),All,Undergraduate only,70
+2020,19,England,All,Undergraduate only,170
+2020,19,Not EU,All,Undergraduate only,90
+2020,19,Scotland,All,Undergraduate only,50
+2020,19,Wales,All,Undergraduate only,20
+2020,20,EU (excluding UK),All,Postgraduate only,10
+2020,20,EU (excluding UK),All,Undergraduate only,20
+2020,20,England,All,Undergraduate only,40
+2020,20,Not EU,All,Postgraduate only,10
+2020,20,Not EU,All,Undergraduate only,30
+2020,20,Scotland,All,Undergraduate only,20
+2020,21-24,EU (excluding UK),All,Postgraduate only,140
+2020,21-24,EU (excluding UK),All,Undergraduate only,50
+2020,21-24,England,All,Postgraduate only,400
+2020,21-24,England,All,Undergraduate only,40
+2020,21-24,Northern Ireland,All,Postgraduate only,10
+2020,21-24,Not EU,All,Combination,10
+2020,21-24,Not EU,All,Postgraduate only,570
+2020,21-24,Not EU,All,Undergraduate only,50
+2020,21-24,Scotland,All,Postgraduate only,40
+2020,21-24,Scotland,All,Undergraduate only,20
+2020,21-24,Wales,All,Postgraduate only,40
+2020,25-29,EU (excluding UK),All,Postgraduate only,100
+2020,25-29,EU (excluding UK),All,Undergraduate only,10
+2020,25-29,England,All,Postgraduate only,200
+2020,25-29,England,All,Undergraduate only,20
+2020,25-29,Not EU,All,Postgraduate only,250
+2020,25-29,Not EU,All,Undergraduate only,10
+2020,25-29,Scotland,All,Postgraduate only,30
+2020,25-29,Wales,All,Postgraduate only,10
+2020,30-34,EU (excluding UK),All,Postgraduate only,20
+2020,30-34,England,All,Postgraduate only,30
+2020,30-34,Not EU,All,Postgraduate only,30
+2020,30-34,Scotland,All,Postgraduate only,10
+2020,35 and over,England,All,Postgraduate only,20
+2020,35 and over,Not EU,All,Postgraduate only,20
+2021,17 and under,EU (excluding UK),All,Undergraduate only,20
+2021,17 and under,Not EU,All,Undergraduate only,30
+2021,18,EU (excluding UK),All,Undergraduate only,70
+2021,18,England,All,Combination,10
+2021,18,England,All,Undergraduate only,580
+2021,18,Northern Ireland,All,Undergraduate only,10
+2021,18,Not EU,All,Undergraduate only,200
+2021,18,Scotland,All,Undergraduate only,100
+2021,18,Wales,All,Undergraduate only,30
+2021,19,EU (excluding UK),All,Undergraduate only,40
+2021,19,England,All,Undergraduate only,160
+2021,19,Not EU,All,Undergraduate only,90
+2021,19,Scotland,All,Undergraduate only,40
+2021,19,Wales,All,Undergraduate only,20
+2021,20,EU (excluding UK),All,Undergraduate only,20
+2021,20,England,All,Undergraduate only,40
+2021,20,Not EU,All,Undergraduate only,40
+2021,20,Scotland,All,Undergraduate only,10
+2021,21-24,EU (excluding UK),All,Postgraduate only,130
+2021,21-24,EU (excluding UK),All,Undergraduate only,30
+2021,21-24,England,All,Postgraduate only,410
+2021,21-24,England,All,Undergraduate only,40
+2021,21-24,Northern Ireland,All,Postgraduate only,10
+2021,21-24,Not EU,All,Combination,10
+2021,21-24,Not EU,All,Postgraduate only,610
+2021,21-24,Not EU,All,Undergraduate only,50
+2021,21-24,Scotland,All,Postgraduate only,70
+2021,21-24,Scotland,All,Undergraduate only,20
+2021,21-24,Wales,All,Postgraduate only,50
+2021,25-29,EU (excluding UK),All,Postgraduate only,80
+2021,25-29,EU (excluding UK),All,Undergraduate only,10
+2021,25-29,England,All,Postgraduate only,190
+2021,25-29,England,All,Undergraduate only,10
+2021,25-29,Northern Ireland,All,Postgraduate only,10
+2021,25-29,Not EU,All,Postgraduate only,240
+2021,25-29,Not EU,All,Undergraduate only,10
+2021,25-29,Scotland,All,Postgraduate only,20
+2021,25-29,Scotland,All,Undergraduate only,10
+2021,25-29,Wales,All,Postgraduate only,10
+2021,30-34,EU (excluding UK),All,Postgraduate only,10
+2021,30-34,England,All,Postgraduate only,40
+2021,30-34,Not EU,All,Postgraduate only,40
+2021,35 and over,England,All,Postgraduate only,20
+2021,35 and over,Not EU,All,Postgraduate only,20
+2022,17 and under,EU (excluding UK),All,Undergraduate only,10
+2022,17 and under,Not EU,All,Undergraduate only,40
+2022,18,EU (excluding UK),All,Undergraduate only,50
+2022,18,England,All,Combination,10
+2022,18,England,All,Postgraduate only,10
+2022,18,England,All,Undergraduate only,590
+2022,18,Northern Ireland,All,Undergraduate only,20
+2022,18,Not EU,All,Undergraduate only,200
+2022,18,Scotland,All,Undergraduate only,80
+2022,18,Wales,All,Undergraduate only,30
+2022,19,EU (excluding UK),All,Undergraduate only,20
+2022,19,England,All,Undergraduate only,150
+2022,19,Not EU,All,Undergraduate only,90
+2022,19,Scotland,All,Undergraduate only,30
+2022,19,Wales,All,Undergraduate only,10
+2022,20,EU (excluding UK),All,Undergraduate only,10
+2022,20,England,All,Undergraduate only,30
+2022,20,Not EU,All,Undergraduate only,30
+2022,20,Scotland,All,Undergraduate only,10
+2022,21-24,EU (excluding UK),All,Postgraduate only,80
+2022,21-24,EU (excluding UK),All,Undergraduate only,10
+2022,21-24,England,All,Postgraduate only,380
+2022,21-24,England,All,Undergraduate only,20
+2022,21-24,Northern Ireland,All,Postgraduate only,10
+2022,21-24,Not EU,All,Postgraduate only,700
+2022,21-24,Not EU,All,Undergraduate only,40
+2022,21-24,Scotland,All,Postgraduate only,50
+2022,21-24,Wales,All,Postgraduate only,30
+2022,25-29,EU (excluding UK),All,Postgraduate only,60
+2022,25-29,England,All,Postgraduate only,190
+2022,25-29,England,All,Undergraduate only,10
+2022,25-29,Not EU,All,Postgraduate only,210
+2022,25-29,Not EU,All,Undergraduate only,10
+2022,25-29,Scotland,All,Postgraduate only,20
+2022,25-29,Wales,All,Postgraduate only,10
+2022,30-34,England,All,Postgraduate only,50
+2022,30-34,Not EU,All,Postgraduate only,50
+2022,35 and over,England,All,Postgraduate only,20
+2022,35 and over,Not EU,All,Postgraduate only,20
+2023,17 and under,EU (excluding UK),All,Undergraduate only,10
+2023,17 and under,Not EU,All,Undergraduate only,40
+2023,18,EU (excluding UK),All,Undergraduate only,40
+2023,18,England,All,Combination,10
+2023,18,England,All,Undergraduate only,590
+2023,18,Northern Ireland,All,Undergraduate only,20
+2023,18,Not EU,All,Combination,10
+2023,18,Not EU,All,Undergraduate only,230
+2023,18,Scotland,All,Undergraduate only,80
+2023,18,Wales,All,Undergraduate only,40
+2023,19,EU (excluding UK),All,Undergraduate only,30
+2023,19,England,All,Undergraduate only,160
+2023,19,Not EU,All,Undergraduate only,120
+2023,19,Scotland,All,Undergraduate only,30
+2023,19,Wales,All,Undergraduate only,10
+2023,20,EU (excluding UK),All,Undergraduate only,20
+2023,20,England,All,Undergraduate only,40
+2023,20,Not EU,All,Postgraduate only,10
+2023,20,Not EU,All,Undergraduate only,30
+2023,20,Scotland,All,Undergraduate only,10
+2023,21-24,EU (excluding UK),All,Postgraduate only,100
+2023,21-24,EU (excluding UK),All,Undergraduate only,20
+2023,21-24,England,All,Postgraduate only,380
+2023,21-24,England,All,Undergraduate only,30
+2023,21-24,Not EU,All,Combination,10
+2023,21-24,Not EU,All,Postgraduate only,720
+2023,21-24,Not EU,All,Undergraduate only,40
+2023,21-24,Scotland,All,Postgraduate only,50
+2023,21-24,Scotland,All,Undergraduate only,10
+2023,21-24,Wales,All,Postgraduate only,30
+2023,25-29,EU (excluding UK),All,Postgraduate only,60
+2023,25-29,England,All,Postgraduate only,160
+2023,25-29,England,All,Undergraduate only,10
+2023,25-29,Not EU,All,Postgraduate only,260
+2023,25-29,Not EU,All,Undergraduate only,20
+2023,25-29,Scotland,All,Postgraduate only,20
+2023,25-29,Wales,All,Postgraduate only,10
+2023,30-34,EU (excluding UK),All,Postgraduate only,10
+2023,30-34,England,All,Postgraduate only,40
+2023,30-34,Not EU,All,Postgraduate only,50
+2023,30-34,Not EU,All,Undergraduate only,10
+2023,30-34,Scotland,All,Postgraduate only,10
+2023,35 and over,England,All,Postgraduate only,30
+2023,35 and over,Not EU,All,Postgraduate only,20
+2016,17 and under,EU (excluding UK),Men,All,10
+2016,17 and under,EU (excluding UK),Women,All,10
+2016,17 and under,Not EU,Men,All,10
+2016,17 and under,Not EU,Women,All,10
+2016,18,EU (excluding UK),Men,All,20
+2016,18,EU (excluding UK),Women,All,40
+2016,18,England,Men,All,320
+2016,18,England,Women,All,290
+2016,18,Northern Ireland,Men,All,10
+2016,18,Northern Ireland,Women,All,10
+2016,18,Not EU,Men,All,30
+2016,18,Not EU,Women,All,40
+2016,18,Scotland,Men,All,60
+2016,18,Scotland,Women,All,70
+2016,18,Wales,Men,All,30
+2016,18,Wales,Women,All,30
+2016,19,EU (excluding UK),Men,All,10
+2016,19,EU (excluding UK),Women,All,30
+2016,19,England,Men,All,110
+2016,19,England,Women,All,110
+2016,19,Not EU,Men,All,20
+2016,19,Not EU,Women,All,40
+2016,19,Scotland,Men,All,20
+2016,19,Scotland,Women,All,30
+2016,19,Wales,Men,All,10
+2016,19,Wales,Women,All,10
+2016,20,EU (excluding UK),Men,All,20
+2016,20,EU (excluding UK),Women,All,10
+2016,20,England,Men,All,20
+2016,20,England,Women,All,30
+2016,20,Not EU,Men,All,10
+2016,20,Not EU,Women,All,20
+2016,20,Scotland,Men,All,20
+2016,20,Scotland,Women,All,10
+2016,21-24,EU (excluding UK),Men,All,70
+2016,21-24,EU (excluding UK),Women,All,100
+2016,21-24,England,Men,All,210
+2016,21-24,England,Women,All,230
+2016,21-24,Northern Ireland,Men,All,10
+2016,21-24,Northern Ireland,Women,All,10
+2016,21-24,Not EU,Men,All,90
+2016,21-24,Not EU,Women,All,210
+2016,21-24,Scotland,Men,All,40
+2016,21-24,Scotland,Women,All,30
+2016,21-24,Wales,Men,All,20
+2016,21-24,Wales,Women,All,20
+2016,25-29,EU (excluding UK),Men,All,60
+2016,25-29,EU (excluding UK),Women,All,50
+2016,25-29,England,Men,All,70
+2016,25-29,England,Women,All,110
+2016,25-29,Not EU,Men,All,50
+2016,25-29,Not EU,Women,All,90
+2016,25-29,Scotland,Men,All,20
+2016,25-29,Scotland,Women,All,20
+2016,30-34,EU (excluding UK),Men,All,10
+2016,30-34,EU (excluding UK),Women,All,10
+2016,30-34,England,Men,All,20
+2016,30-34,England,Women,All,20
+2016,30-34,Not EU,Men,All,10
+2016,30-34,Not EU,Women,All,20
+2016,35 and over,England,Men,All,10
+2016,35 and over,England,Women,All,10
+2016,35 and over,Not EU,Women,All,10
+2017,17 and under,EU (excluding UK),Men,All,10
+2017,17 and under,EU (excluding UK),Women,All,10
+2017,17 and under,Not EU,Men,All,10
+2017,17 and under,Not EU,Women,All,10
+2017,18,EU (excluding UK),Men,All,30
+2017,18,EU (excluding UK),Women,All,30
+2017,18,England,Men,All,230
+2017,18,England,Women,All,220
+2017,18,Northern Ireland,Men,All,10
+2017,18,Northern Ireland,Women,All,10
+2017,18,Not EU,Men,All,20
+2017,18,Not EU,Women,All,40
+2017,18,Scotland,Men,All,50
+2017,18,Scotland,Women,All,50
+2017,18,Wales,Men,All,20
+2017,18,Wales,Women,All,30
+2017,19,EU (excluding UK),Men,All,20
+2017,19,EU (excluding UK),Women,All,20
+2017,19,England,Men,All,60
+2017,19,England,Women,All,70
+2017,19,Not EU,Men,All,10
+2017,19,Not EU,Women,All,20
+2017,19,Scotland,Men,All,20
+2017,19,Scotland,Women,All,20
+2017,19,Wales,Men,All,10
+2017,19,Wales,Women,All,10
+2017,20,EU (excluding UK),Men,All,10
+2017,20,EU (excluding UK),Women,All,10
+2017,20,England,Men,All,20
+2017,20,England,Women,All,20
+2017,20,Not EU,Men,All,10
+2017,20,Not EU,Women,All,10
+2017,21-24,EU (excluding UK),Men,All,50
+2017,21-24,EU (excluding UK),Women,All,50
+2017,21-24,England,Men,All,90
+2017,21-24,England,Women,All,130
+2017,21-24,Not EU,Men,All,70
+2017,21-24,Not EU,Women,All,170
+2017,21-24,Scotland,Men,All,10
+2017,21-24,Scotland,Women,All,20
+2017,21-24,Wales,Men,All,10
+2017,21-24,Wales,Women,All,20
+2017,25-29,EU (excluding UK),Men,All,20
+2017,25-29,EU (excluding UK),Women,All,10
+2017,25-29,England,Men,All,30
+2017,25-29,England,Women,All,50
+2017,25-29,Not EU,Men,All,40
+2017,25-29,Not EU,Women,All,50
+2017,25-29,Scotland,Women,All,10
+2017,30-34,EU (excluding UK),Men,All,10
+2017,30-34,England,Men,All,10
+2017,30-34,England,Women,All,10
+2017,30-34,Not EU,Men,All,10
+2017,30-34,Not EU,Women,All,10
+2017,35 and over,England,Women,All,10
+2018,17 and under,EU (excluding UK),Men,All,10
+2018,17 and under,EU (excluding UK),Women,All,10
+2018,17 and under,Not EU,Women,All,10
+2018,18,EU (excluding UK),Men,All,20
+2018,18,EU (excluding UK),Women,All,30
+2018,18,England,Men,All,260
+2018,18,England,Women,All,270
+2018,18,Northern Ireland,Men,All,10
+2018,18,Not EU,Men,All,40
+2018,18,Not EU,Women,All,60
+2018,18,Scotland,Men,All,40
+2018,18,Scotland,Women,All,40
+2018,18,Wales,Men,All,20
+2018,18,Wales,Women,All,20
+2018,19,EU (excluding UK),Men,All,20
+2018,19,EU (excluding UK),Women,All,30
+2018,19,England,Men,All,70
+2018,19,England,Women,All,70
+2018,19,Not EU,Men,All,20
+2018,19,Not EU,Women,All,20
+2018,19,Scotland,Men,All,20
+2018,19,Scotland,Women,All,20
+2018,19,Wales,Women,All,10
+2018,20,EU (excluding UK),Men,All,10
+2018,20,EU (excluding UK),Women,All,10
+2018,20,England,Men,All,20
+2018,20,England,Women,All,10
+2018,20,Not EU,Men,All,10
+2018,20,Not EU,Women,All,10
+2018,20,Scotland,Men,All,10
+2018,20,Scotland,Women,All,10
+2018,21-24,EU (excluding UK),Men,All,40
+2018,21-24,EU (excluding UK),Women,All,70
+2018,21-24,England,Men,All,120
+2018,21-24,England,Women,All,160
+2018,21-24,Northern Ireland,Women,All,10
+2018,21-24,Not EU,Men,All,100
+2018,21-24,Not EU,Women,All,210
+2018,21-24,Scotland,Men,All,20
+2018,21-24,Scotland,Women,All,20
+2018,21-24,Wales,Men,All,10
+2018,21-24,Wales,Women,All,20
+2018,25-29,EU (excluding UK),Men,All,20
+2018,25-29,EU (excluding UK),Women,All,30
+2018,25-29,England,Men,All,40
+2018,25-29,England,Women,All,80
+2018,25-29,Not EU,Men,All,50
+2018,25-29,Not EU,Women,All,80
+2018,25-29,Scotland,Men,All,10
+2018,25-29,Scotland,Women,All,10
+2018,25-29,Wales,Women,All,10
+2018,30-34,EU (excluding UK),Women,All,10
+2018,30-34,England,Men,All,10
+2018,30-34,England,Women,All,20
+2018,30-34,Not EU,Men,All,10
+2018,30-34,Not EU,Women,All,20
+2018,35 and over,England,Men,All,10
+2018,35 and over,Not EU,Men,All,10
+2018,35 and over,Not EU,Women,All,10
+2019,17 and under,EU (excluding UK),Women,All,20
+2019,17 and under,England,Women,All,10
+2019,17 and under,Not EU,Men,All,10
+2019,17 and under,Not EU,Women,All,10
+2019,18,EU (excluding UK),Men,All,30
+2019,18,EU (excluding UK),Women,All,50
+2019,18,England,Men,All,350
+2019,18,England,Women,All,310
+2019,18,Northern Ireland,Women,All,10
+2019,18,Not EU,Men,All,60
+2019,18,Not EU,Women,All,80
+2019,18,Scotland,Men,All,50
+2019,18,Scotland,Women,All,60
+2019,18,Wales,Men,All,30
+2019,18,Wales,Women,All,30
+2019,19,EU (excluding UK),Men,All,30
+2019,19,EU (excluding UK),Women,All,50
+2019,19,England,Men,All,90
+2019,19,England,Women,All,90
+2019,19,Northern Ireland,Men,All,10
+2019,19,Not EU,Men,All,20
+2019,19,Not EU,Women,All,50
+2019,19,Scotland,Men,All,20
+2019,19,Scotland,Women,All,20
+2019,19,Wales,Women,All,10
+2019,20,EU (excluding UK),Men,All,10
+2019,20,EU (excluding UK),Women,All,20
+2019,20,England,Men,All,10
+2019,20,England,Women,All,20
+2019,20,Not EU,Men,All,10
+2019,20,Not EU,Women,All,20
+2019,20,Scotland,Men,All,10
+2019,20,Scotland,Women,All,10
+2019,21-24,EU (excluding UK),Men,All,90
+2019,21-24,EU (excluding UK),Women,All,120
+2019,21-24,England,Men,All,190
+2019,21-24,England,Women,All,250
+2019,21-24,Northern Ireland,Men,All,10
+2019,21-24,Not EU,Men,All,160
+2019,21-24,Not EU,Women,All,330
+2019,21-24,Scotland,Men,All,30
+2019,21-24,Scotland,Women,All,40
+2019,21-24,Wales,Men,All,20
+2019,21-24,Wales,Women,All,20
+2019,25-29,EU (excluding UK),Men,All,50
+2019,25-29,EU (excluding UK),Women,All,70
+2019,25-29,England,Men,All,80
+2019,25-29,England,Women,All,140
+2019,25-29,Not EU,Men,All,70
+2019,25-29,Not EU,Women,All,120
+2019,25-29,Scotland,Men,All,10
+2019,25-29,Scotland,Women,All,10
+2019,25-29,Wales,Men,All,10
+2019,25-29,Wales,Women,All,10
+2019,30-34,EU (excluding UK),Men,All,10
+2019,30-34,England,Men,All,10
+2019,30-34,England,Women,All,10
+2019,30-34,Not EU,Men,All,20
+2019,30-34,Not EU,Women,All,20
+2019,35 and over,England,Men,All,10
+2019,35 and over,England,Women,All,20
+2019,35 and over,Not EU,Men,All,10
+2019,35 and over,Not EU,Women,All,10
+2020,17 and under,EU (excluding UK),Women,All,10
+2020,17 and under,Not EU,Men,All,10
+2020,17 and under,Not EU,Women,All,20
+2020,18,EU (excluding UK),Men,All,30
+2020,18,EU (excluding UK),Women,All,40
+2020,18,England,Men,All,330
+2020,18,England,Women,All,300
+2020,18,Northern Ireland,Men,All,10
+2020,18,Northern Ireland,Women,All,10
+2020,18,Not EU,Men,All,60
+2020,18,Not EU,Women,All,90
+2020,18,Scotland,Men,All,60
+2020,18,Scotland,Women,All,60
+2020,18,Wales,Men,All,20
+2020,18,Wales,Women,All,40
+2020,19,EU (excluding UK),Men,All,30
+2020,19,EU (excluding UK),Women,All,30
+2020,19,England,Men,All,90
+2020,19,England,Women,All,90
+2020,19,Not EU,Men,All,40
+2020,19,Not EU,Women,All,50
+2020,19,Scotland,Men,All,20
+2020,19,Scotland,Women,All,30
+2020,19,Wales,Men,All,10
+2020,19,Wales,Women,All,10
+2020,20,EU (excluding UK),Men,All,10
+2020,20,EU (excluding UK),Women,All,20
+2020,20,England,Men,All,20
+2020,20,England,Women,All,20
+2020,20,Not EU,Men,All,10
+2020,20,Not EU,Women,All,30
+2020,20,Scotland,Men,All,10
+2020,20,Scotland,Women,All,10
+2020,21-24,EU (excluding UK),Men,All,70
+2020,21-24,EU (excluding UK),Women,All,110
+2020,21-24,England,Men,All,210
+2020,21-24,England,Women,All,220
+2020,21-24,Northern Ireland,Women,All,10
+2020,21-24,Not EU,Men,All,190
+2020,21-24,Not EU,Women,All,440
+2020,21-24,Scotland,Men,All,30
+2020,21-24,Scotland,Women,All,30
+2020,21-24,Wales,Men,All,20
+2020,21-24,Wales,Women,All,20
+2020,25-29,EU (excluding UK),Men,All,60
+2020,25-29,EU (excluding UK),Women,All,50
+2020,25-29,England,Men,All,100
+2020,25-29,England,Women,All,120
+2020,25-29,Not EU,Men,All,120
+2020,25-29,Not EU,Women,All,140
+2020,25-29,Scotland,Men,All,20
+2020,25-29,Scotland,Women,All,20
+2020,25-29,Wales,Men,All,10
+2020,25-29,Wales,Women,All,10
+2020,30-34,EU (excluding UK),Men,All,10
+2020,30-34,EU (excluding UK),Women,All,10
+2020,30-34,England,Men,All,20
+2020,30-34,England,Women,All,20
+2020,30-34,Not EU,Men,All,10
+2020,30-34,Not EU,Women,All,30
+2020,35 and over,England,Men,All,10
+2020,35 and over,England,Women,All,20
+2020,35 and over,Not EU,Men,All,10
+2020,35 and over,Not EU,Women,All,10
+2021,17 and under,EU (excluding UK),Women,All,10
+2021,17 and under,Not EU,Men,All,10
+2021,17 and under,Not EU,Women,All,20
+2021,18,EU (excluding UK),Men,All,30
+2021,18,EU (excluding UK),Women,All,40
+2021,18,England,Men,All,340
+2021,18,England,Women,All,260
+2021,18,Northern Ireland,Women,All,10
+2021,18,Not EU,Men,All,90
+2021,18,Not EU,Women,All,120
+2021,18,Scotland,Men,All,50
+2021,18,Scotland,Women,All,40
+2021,18,Wales,Men,All,20
+2021,18,Wales,Women,All,20
+2021,19,EU (excluding UK),Men,All,10
+2021,19,EU (excluding UK),Women,All,30
+2021,19,England,Men,All,90
+2021,19,England,Women,All,70
+2021,19,Not EU,Men,All,50
+2021,19,Not EU,Women,All,50
+2021,19,Scotland,Men,All,10
+2021,19,Scotland,Women,All,30
+2021,19,Wales,Men,All,10
+2021,19,Wales,Women,All,10
+2021,20,EU (excluding UK),Men,All,10
+2021,20,EU (excluding UK),Women,All,10
+2021,20,England,Men,All,30
+2021,20,England,Women,All,20
+2021,20,Not EU,Men,All,20
+2021,20,Not EU,Women,All,20
+2021,20,Scotland,Men,All,10
+2021,21-24,EU (excluding UK),Men,All,70
+2021,21-24,EU (excluding UK),Women,All,90
+2021,21-24,England,Men,All,200
+2021,21-24,England,Women,All,250
+2021,21-24,Northern Ireland,Women,All,10
+2021,21-24,Not EU,Men,All,260
+2021,21-24,Not EU,Women,All,410
+2021,21-24,Scotland,Men,All,40
+2021,21-24,Scotland,Women,All,40
+2021,21-24,Wales,Men,All,20
+2021,21-24,Wales,Women,All,30
+2021,25-29,EU (excluding UK),Men,All,40
+2021,25-29,EU (excluding UK),Women,All,50
+2021,25-29,England,Men,All,90
+2021,25-29,England,Women,All,100
+2021,25-29,Not EU,Men,All,110
+2021,25-29,Not EU,Women,All,150
+2021,25-29,Scotland,Men,All,20
+2021,25-29,Scotland,Women,All,10
+2021,25-29,Wales,Men,All,10
+2021,30-34,EU (excluding UK),Men,All,10
+2021,30-34,EU (excluding UK),Women,All,10
+2021,30-34,England,Men,All,10
+2021,30-34,England,Women,All,30
+2021,30-34,Not EU,Men,All,20
+2021,30-34,Not EU,Women,All,30
+2021,35 and over,England,Men,All,10
+2021,35 and over,England,Women,All,10
+2021,35 and over,Not EU,Men,All,10
+2021,35 and over,Not EU,Women,All,10
+2022,17 and under,EU (excluding UK),Women,All,10
+2022,17 and under,Not EU,Men,All,10
+2022,17 and under,Not EU,Women,All,20
+2022,18,EU (excluding UK),Men,All,20
+2022,18,EU (excluding UK),Women,All,40
+2022,18,England,Men,All,320
+2022,18,England,Women,All,290
+2022,18,Northern Ireland,Men,All,10
+2022,18,Northern Ireland,Women,All,10
+2022,18,Not EU,Men,All,90
+2022,18,Not EU,Women,All,120
+2022,18,Scotland,Men,All,50
+2022,18,Scotland,Women,All,30
+2022,18,Wales,Men,All,10
+2022,18,Wales,Women,All,20
+2022,19,EU (excluding UK),Men,All,10
+2022,19,EU (excluding UK),Women,All,20
+2022,19,England,Men,All,80
+2022,19,England,Women,All,70
+2022,19,Not EU,Men,All,50
+2022,19,Not EU,Women,All,50
+2022,19,Scotland,Men,All,20
+2022,19,Scotland,Women,All,10
+2022,20,EU (excluding UK),Women,All,10
+2022,20,England,Men,All,10
+2022,20,England,Women,All,20
+2022,20,Not EU,Men,All,10
+2022,20,Not EU,Women,All,30
+2022,20,Scotland,Men,All,10
+2022,21-24,EU (excluding UK),Men,All,30
+2022,21-24,EU (excluding UK),Women,All,60
+2022,21-24,England,Men,All,200
+2022,21-24,England,Women,All,200
+2022,21-24,Not EU,Men,All,260
+2022,21-24,Not EU,Women,All,490
+2022,21-24,Scotland,Men,All,20
+2022,21-24,Scotland,Women,All,30
+2022,21-24,Wales,Men,All,10
+2022,21-24,Wales,Women,All,20
+2022,25-29,EU (excluding UK),Men,All,30
+2022,25-29,EU (excluding UK),Women,All,30
+2022,25-29,England,Men,All,80
+2022,25-29,England,Women,All,110
+2022,25-29,Not EU,Men,All,100
+2022,25-29,Not EU,Women,All,130
+2022,25-29,Scotland,Men,All,10
+2022,25-29,Scotland,Women,All,10
+2022,25-29,Wales,Men,All,10
+2022,25-29,Wales,Women,All,10
+2022,30-34,England,Men,All,20
+2022,30-34,England,Women,All,30
+2022,30-34,Not EU,Men,All,30
+2022,30-34,Not EU,Women,All,20
+2022,35 and over,England,Men,All,10
+2022,35 and over,England,Women,All,10
+2022,35 and over,Not EU,Men,All,20
+2022,35 and over,Not EU,Women,All,10
+2023,17 and under,EU (excluding UK),Men,All,10
+2023,17 and under,EU (excluding UK),Women,All,10
+2023,17 and under,Not EU,Men,All,20
+2023,17 and under,Not EU,Women,All,30
+2023,18,EU (excluding UK),Men,All,20
+2023,18,EU (excluding UK),Women,All,20
+2023,18,England,Men,All,330
+2023,18,England,Women,All,270
+2023,18,Northern Ireland,Men,All,10
+2023,18,Northern Ireland,Women,All,10
+2023,18,Not EU,Men,All,90
+2023,18,Not EU,Women,All,150
+2023,18,Scotland,Men,All,40
+2023,18,Scotland,Women,All,50
+2023,18,Wales,Men,All,20
+2023,18,Wales,Women,All,20
+2023,19,EU (excluding UK),Men,All,10
+2023,19,EU (excluding UK),Women,All,20
+2023,19,England,Men,All,100
+2023,19,England,Women,All,60
+2023,19,Not EU,Men,All,40
+2023,19,Not EU,Women,All,80
+2023,19,Scotland,Men,All,20
+2023,19,Scotland,Women,All,10
+2023,19,Wales,Men,All,10
+2023,19,Wales,Women,All,10
+2023,20,EU (excluding UK),Women,All,20
+2023,20,England,Men,All,20
+2023,20,England,Women,All,20
+2023,20,Not EU,Men,All,20
+2023,20,Not EU,Women,All,30
+2023,20,Scotland,Men,All,10
+2023,21-24,EU (excluding UK),Men,All,60
+2023,21-24,EU (excluding UK),Women,All,60
+2023,21-24,England,Men,All,190
+2023,21-24,England,Women,All,230
+2023,21-24,Not EU,Men,All,290
+2023,21-24,Not EU,Women,All,470
+2023,21-24,Scotland,Men,All,20
+2023,21-24,Scotland,Women,All,30
+2023,21-24,Wales,Men,All,10
+2023,21-24,Wales,Women,All,20
+2023,25-29,EU (excluding UK),Men,All,30
+2023,25-29,EU (excluding UK),Women,All,30
+2023,25-29,England,Men,All,80
+2023,25-29,England,Women,All,100
+2023,25-29,Not EU,Men,All,140
+2023,25-29,Not EU,Women,All,140
+2023,25-29,Scotland,Men,All,10
+2023,25-29,Scotland,Women,All,10
+2023,25-29,Wales,Men,All,10
+2023,25-29,Wales,Women,All,10
+2023,30-34,EU (excluding UK),Men,All,10
+2023,30-34,England,Men,All,20
+2023,30-34,England,Women,All,20
+2023,30-34,Not EU,Men,All,20
+2023,30-34,Not EU,Women,All,40
+2023,30-34,Scotland,Women,All,10
+2023,35 and over,England,Men,All,10
+2023,35 and over,England,Women,All,20
+2023,35 and over,Not EU,Men,All,10
+2023,35 and over,Not EU,Women,All,20
+2016,17 and under,EU (excluding UK),Men,Undergraduate only,10
+2016,17 and under,EU (excluding UK),Women,Undergraduate only,10
+2016,17 and under,Not EU,Men,Undergraduate only,10
+2016,17 and under,Not EU,Women,Undergraduate only,10
+2016,18,EU (excluding UK),Men,Undergraduate only,20
+2016,18,EU (excluding UK),Women,Undergraduate only,40
+2016,18,England,Men,Undergraduate only,310
+2016,18,England,Women,Undergraduate only,290
+2016,18,Northern Ireland,Men,Undergraduate only,10
+2016,18,Northern Ireland,Women,Undergraduate only,10
+2016,18,Not EU,Men,Undergraduate only,30
+2016,18,Not EU,Women,Undergraduate only,40
+2016,18,Scotland,Men,Undergraduate only,60
+2016,18,Scotland,Women,Undergraduate only,70
+2016,18,Wales,Men,Undergraduate only,30
+2016,18,Wales,Women,Undergraduate only,30
+2016,19,EU (excluding UK),Men,Undergraduate only,10
+2016,19,EU (excluding UK),Women,Undergraduate only,30
+2016,19,England,Men,Undergraduate only,100
+2016,19,England,Women,Undergraduate only,110
+2016,19,Not EU,Men,Undergraduate only,20
+2016,19,Not EU,Women,Undergraduate only,40
+2016,19,Scotland,Men,Undergraduate only,20
+2016,19,Scotland,Women,Undergraduate only,30
+2016,19,Wales,Men,Undergraduate only,10
+2016,19,Wales,Women,Undergraduate only,10
+2016,20,EU (excluding UK),Men,Undergraduate only,10
+2016,20,EU (excluding UK),Women,Undergraduate only,10
+2016,20,England,Men,Undergraduate only,20
+2016,20,England,Women,Undergraduate only,20
+2016,20,Not EU,Men,Undergraduate only,10
+2016,20,Not EU,Women,Undergraduate only,10
+2016,20,Scotland,Men,Undergraduate only,20
+2016,20,Scotland,Women,Undergraduate only,10
+2016,21-24,EU (excluding UK),Men,Postgraduate only,50
+2016,21-24,EU (excluding UK),Men,Undergraduate only,20
+2016,21-24,EU (excluding UK),Women,Postgraduate only,70
+2016,21-24,EU (excluding UK),Women,Undergraduate only,30
+2016,21-24,England,Men,Postgraduate only,180
+2016,21-24,England,Men,Undergraduate only,30
+2016,21-24,England,Women,Postgraduate only,210
+2016,21-24,England,Women,Undergraduate only,20
+2016,21-24,Northern Ireland,Men,Postgraduate only,10
+2016,21-24,Northern Ireland,Women,Postgraduate only,10
+2016,21-24,Not EU,Men,Postgraduate only,70
+2016,21-24,Not EU,Men,Undergraduate only,20
+2016,21-24,Not EU,Women,Postgraduate only,200
+2016,21-24,Not EU,Women,Undergraduate only,10
+2016,21-24,Scotland,Men,Postgraduate only,20
+2016,21-24,Scotland,Men,Undergraduate only,10
+2016,21-24,Scotland,Women,Postgraduate only,20
+2016,21-24,Scotland,Women,Undergraduate only,10
+2016,21-24,Wales,Men,Postgraduate only,10
+2016,21-24,Wales,Women,Postgraduate only,20
+2016,25-29,EU (excluding UK),Men,Postgraduate only,50
+2016,25-29,EU (excluding UK),Men,Undergraduate only,10
+2016,25-29,EU (excluding UK),Women,Postgraduate only,50
+2016,25-29,EU (excluding UK),Women,Undergraduate only,10
+2016,25-29,England,Men,Postgraduate only,60
+2016,25-29,England,Men,Undergraduate only,10
+2016,25-29,England,Women,Postgraduate only,100
+2016,25-29,Not EU,Men,Postgraduate only,50
+2016,25-29,Not EU,Women,Postgraduate only,80
+2016,25-29,Not EU,Women,Undergraduate only,10
+2016,25-29,Scotland,Men,Postgraduate only,10
+2016,25-29,Scotland,Men,Undergraduate only,10
+2016,25-29,Scotland,Women,Postgraduate only,20
+2016,30-34,EU (excluding UK),Men,Postgraduate only,10
+2016,30-34,EU (excluding UK),Women,Postgraduate only,10
+2016,30-34,England,Men,Postgraduate only,20
+2016,30-34,England,Women,Postgraduate only,20
+2016,30-34,Not EU,Men,Postgraduate only,10
+2016,30-34,Not EU,Women,Postgraduate only,10
+2016,35 and over,England,Men,Postgraduate only,10
+2016,35 and over,Not EU,Women,Postgraduate only,10
+2017,17 and under,EU (excluding UK),Men,Undergraduate only,10
+2017,17 and under,EU (excluding UK),Women,Undergraduate only,10
+2017,17 and under,Not EU,Women,Undergraduate only,10
+2017,18,EU (excluding UK),Men,Undergraduate only,30
+2017,18,EU (excluding UK),Women,Undergraduate only,30
+2017,18,England,Men,Undergraduate only,230
+2017,18,England,Women,Undergraduate only,220
+2017,18,Northern Ireland,Men,Undergraduate only,10
+2017,18,Northern Ireland,Women,Undergraduate only,10
+2017,18,Not EU,Men,Undergraduate only,20
+2017,18,Not EU,Women,Undergraduate only,40
+2017,18,Scotland,Men,Undergraduate only,50
+2017,18,Scotland,Women,Undergraduate only,50
+2017,18,Wales,Men,Undergraduate only,20
+2017,18,Wales,Women,Undergraduate only,30
+2017,19,EU (excluding UK),Men,Undergraduate only,20
+2017,19,EU (excluding UK),Women,Undergraduate only,20
+2017,19,England,Men,Undergraduate only,60
+2017,19,England,Women,Undergraduate only,70
+2017,19,Not EU,Men,Undergraduate only,10
+2017,19,Not EU,Women,Undergraduate only,20
+2017,19,Scotland,Men,Undergraduate only,20
+2017,19,Scotland,Women,Undergraduate only,20
+2017,19,Wales,Men,Undergraduate only,10
+2017,19,Wales,Women,Undergraduate only,10
+2017,20,EU (excluding UK),Men,Undergraduate only,10
+2017,20,EU (excluding UK),Women,Undergraduate only,10
+2017,20,England,Men,Undergraduate only,20
+2017,20,England,Women,Undergraduate only,20
+2017,20,Not EU,Men,Undergraduate only,10
+2017,20,Not EU,Women,Undergraduate only,10
+2017,21-24,EU (excluding UK),Men,Postgraduate only,40
+2017,21-24,EU (excluding UK),Men,Undergraduate only,10
+2017,21-24,EU (excluding UK),Women,Postgraduate only,40
+2017,21-24,EU (excluding UK),Women,Undergraduate only,10
+2017,21-24,England,Men,Postgraduate only,80
+2017,21-24,England,Men,Undergraduate only,10
+2017,21-24,England,Women,Postgraduate only,120
+2017,21-24,England,Women,Undergraduate only,10
+2017,21-24,Not EU,Men,Postgraduate only,60
+2017,21-24,Not EU,Men,Undergraduate only,10
+2017,21-24,Not EU,Women,Postgraduate only,160
+2017,21-24,Not EU,Women,Undergraduate only,10
+2017,21-24,Scotland,Men,Postgraduate only,10
+2017,21-24,Scotland,Men,Undergraduate only,10
+2017,21-24,Scotland,Women,Postgraduate only,10
+2017,21-24,Wales,Men,Postgraduate only,10
+2017,21-24,Wales,Women,Postgraduate only,20
+2017,25-29,EU (excluding UK),Men,Postgraduate only,10
+2017,25-29,EU (excluding UK),Men,Undergraduate only,10
+2017,25-29,EU (excluding UK),Women,Postgraduate only,10
+2017,25-29,England,Men,Postgraduate only,30
+2017,25-29,England,Women,Postgraduate only,50
+2017,25-29,Not EU,Men,Postgraduate only,30
+2017,25-29,Not EU,Women,Postgraduate only,40
+2017,30-34,EU (excluding UK),Men,Postgraduate only,10
+2017,30-34,England,Men,Postgraduate only,10
+2017,30-34,England,Women,Postgraduate only,10
+2017,30-34,Not EU,Men,Postgraduate only,10
+2017,30-34,Not EU,Women,Postgraduate only,10
+2018,17 and under,EU (excluding UK),Men,Undergraduate only,10
+2018,17 and under,EU (excluding UK),Women,Undergraduate only,10
+2018,17 and under,Not EU,Women,Undergraduate only,10
+2018,18,EU (excluding UK),Men,Undergraduate only,20
+2018,18,EU (excluding UK),Women,Undergraduate only,30
+2018,18,England,Men,Combination,10
+2018,18,England,Men,Undergraduate only,250
+2018,18,England,Women,Undergraduate only,270
+2018,18,Northern Ireland,Men,Undergraduate only,10
+2018,18,Not EU,Men,Undergraduate only,30
+2018,18,Not EU,Women,Undergraduate only,50
+2018,18,Scotland,Men,Undergraduate only,40
+2018,18,Scotland,Women,Undergraduate only,40
+2018,18,Wales,Men,Undergraduate only,20
+2018,18,Wales,Women,Undergraduate only,20
+2018,19,EU (excluding UK),Men,Undergraduate only,20
+2018,19,EU (excluding UK),Women,Undergraduate only,20
+2018,19,England,Men,Undergraduate only,70
+2018,19,England,Women,Undergraduate only,70
+2018,19,Not EU,Men,Undergraduate only,20
+2018,19,Not EU,Women,Undergraduate only,20
+2018,19,Scotland,Men,Undergraduate only,20
+2018,19,Scotland,Women,Undergraduate only,20
+2018,19,Wales,Women,Undergraduate only,10
+2018,20,EU (excluding UK),Men,Undergraduate only,10
+2018,20,EU (excluding UK),Women,Undergraduate only,10
+2018,20,England,Men,Undergraduate only,20
+2018,20,England,Women,Undergraduate only,10
+2018,20,Not EU,Men,Undergraduate only,10
+2018,20,Not EU,Women,Undergraduate only,10
+2018,20,Scotland,Men,Undergraduate only,10
+2018,20,Scotland,Women,Undergraduate only,10
+2018,21-24,EU (excluding UK),Men,Postgraduate only,30
+2018,21-24,EU (excluding UK),Men,Undergraduate only,10
+2018,21-24,EU (excluding UK),Women,Postgraduate only,50
+2018,21-24,EU (excluding UK),Women,Undergraduate only,20
+2018,21-24,England,Men,Postgraduate only,110
+2018,21-24,England,Men,Undergraduate only,20
+2018,21-24,England,Women,Postgraduate only,150
+2018,21-24,England,Women,Undergraduate only,10
+2018,21-24,Not EU,Men,Postgraduate only,90
+2018,21-24,Not EU,Men,Undergraduate only,10
+2018,21-24,Not EU,Women,Postgraduate only,190
+2018,21-24,Not EU,Women,Undergraduate only,20
+2018,21-24,Scotland,Men,Postgraduate only,10
+2018,21-24,Scotland,Women,Postgraduate only,20
+2018,21-24,Scotland,Women,Undergraduate only,10
+2018,21-24,Wales,Men,Postgraduate only,10
+2018,21-24,Wales,Women,Postgraduate only,20
+2018,25-29,EU (excluding UK),Men,Postgraduate only,20
+2018,25-29,EU (excluding UK),Women,Postgraduate only,30
+2018,25-29,England,Men,Postgraduate only,40
+2018,25-29,England,Women,Postgraduate only,70
+2018,25-29,England,Women,Undergraduate only,10
+2018,25-29,Not EU,Men,Postgraduate only,40
+2018,25-29,Not EU,Women,Postgraduate only,80
+2018,25-29,Not EU,Women,Undergraduate only,10
+2018,25-29,Scotland,Women,Postgraduate only,10
+2018,25-29,Wales,Women,Postgraduate only,10
+2018,30-34,EU (excluding UK),Women,Postgraduate only,10
+2018,30-34,England,Men,Postgraduate only,10
+2018,30-34,England,Women,Postgraduate only,10
+2018,30-34,Not EU,Men,Postgraduate only,10
+2018,30-34,Not EU,Women,Postgraduate only,20
+2018,35 and over,England,Men,Postgraduate only,10
+2018,35 and over,Not EU,Women,Postgraduate only,10
+2019,17 and under,EU (excluding UK),Women,Undergraduate only,20
+2019,17 and under,England,Women,Undergraduate only,10
+2019,17 and under,Not EU,Men,Undergraduate only,10
+2019,17 and under,Not EU,Women,Undergraduate only,10
+2019,18,EU (excluding UK),Men,Undergraduate only,30
+2019,18,EU (excluding UK),Women,Undergraduate only,50
+2019,18,England,Men,Undergraduate only,340
+2019,18,England,Women,Combination,10
+2019,18,England,Women,Undergraduate only,310
+2019,18,Northern Ireland,Women,Undergraduate only,10
+2019,18,Not EU,Men,Undergraduate only,50
+2019,18,Not EU,Women,Undergraduate only,80
+2019,18,Scotland,Men,Undergraduate only,50
+2019,18,Scotland,Women,Undergraduate only,60
+2019,18,Wales,Men,Undergraduate only,30
+2019,18,Wales,Women,Undergraduate only,30
+2019,19,EU (excluding UK),Men,Undergraduate only,30
+2019,19,EU (excluding UK),Women,Undergraduate only,50
+2019,19,England,Men,Undergraduate only,90
+2019,19,England,Women,Undergraduate only,90
+2019,19,Northern Ireland,Men,Undergraduate only,10
+2019,19,Not EU,Men,Undergraduate only,20
+2019,19,Not EU,Women,Undergraduate only,50
+2019,19,Scotland,Men,Undergraduate only,20
+2019,19,Scotland,Women,Undergraduate only,20
+2019,19,Wales,Women,Undergraduate only,10
+2019,20,EU (excluding UK),Men,Undergraduate only,10
+2019,20,EU (excluding UK),Women,Undergraduate only,20
+2019,20,England,Men,Undergraduate only,10
+2019,20,England,Women,Undergraduate only,20
+2019,20,Not EU,Men,Undergraduate only,10
+2019,20,Not EU,Women,Undergraduate only,20
+2019,20,Scotland,Men,Undergraduate only,10
+2019,20,Scotland,Women,Undergraduate only,10
+2019,21-24,EU (excluding UK),Men,Postgraduate only,70
+2019,21-24,EU (excluding UK),Men,Undergraduate only,20
+2019,21-24,EU (excluding UK),Women,Postgraduate only,100
+2019,21-24,EU (excluding UK),Women,Undergraduate only,20
+2019,21-24,England,Men,Postgraduate only,180
+2019,21-24,England,Men,Undergraduate only,10
+2019,21-24,England,Women,Postgraduate only,230
+2019,21-24,England,Women,Undergraduate only,20
+2019,21-24,Northern Ireland,Men,Postgraduate only,10
+2019,21-24,Not EU,Men,Postgraduate only,140
+2019,21-24,Not EU,Men,Undergraduate only,20
+2019,21-24,Not EU,Women,Postgraduate only,300
+2019,21-24,Not EU,Women,Undergraduate only,20
+2019,21-24,Scotland,Men,Postgraduate only,20
+2019,21-24,Scotland,Men,Undergraduate only,10
+2019,21-24,Scotland,Women,Postgraduate only,30
+2019,21-24,Scotland,Women,Undergraduate only,10
+2019,21-24,Wales,Men,Postgraduate only,20
+2019,21-24,Wales,Women,Postgraduate only,20
+2019,25-29,EU (excluding UK),Men,Postgraduate only,40
+2019,25-29,EU (excluding UK),Men,Undergraduate only,10
+2019,25-29,EU (excluding UK),Women,Postgraduate only,50
+2019,25-29,EU (excluding UK),Women,Undergraduate only,10
+2019,25-29,England,Men,Postgraduate only,80
+2019,25-29,England,Women,Postgraduate only,130
+2019,25-29,England,Women,Undergraduate only,10
+2019,25-29,Not EU,Men,Postgraduate only,70
+2019,25-29,Not EU,Men,Undergraduate only,10
+2019,25-29,Not EU,Women,Postgraduate only,110
+2019,25-29,Not EU,Women,Undergraduate only,10
+2019,25-29,Scotland,Men,Postgraduate only,10
+2019,25-29,Scotland,Men,Undergraduate only,10
+2019,25-29,Scotland,Women,Postgraduate only,10
+2019,25-29,Wales,Men,Postgraduate only,10
+2019,25-29,Wales,Women,Postgraduate only,10
+2019,30-34,England,Men,Postgraduate only,10
+2019,30-34,England,Women,Postgraduate only,10
+2019,30-34,Not EU,Men,Postgraduate only,20
+2019,30-34,Not EU,Women,Postgraduate only,20
+2019,35 and over,England,Men,Postgraduate only,10
+2019,35 and over,England,Women,Postgraduate only,10
+2019,35 and over,Not EU,Men,Postgraduate only,10
+2019,35 and over,Not EU,Women,Postgraduate only,10
+2020,17 and under,EU (excluding UK),Women,Undergraduate only,10
+2020,17 and under,Not EU,Men,Undergraduate only,10
+2020,17 and under,Not EU,Women,Undergraduate only,20
+2020,18,EU (excluding UK),Men,Undergraduate only,30
+2020,18,EU (excluding UK),Women,Undergraduate only,40
+2020,18,England,Men,Combination,10
+2020,18,England,Men,Undergraduate only,320
+2020,18,England,Women,Combination,10
+2020,18,England,Women,Undergraduate only,290
+2020,18,Northern Ireland,Men,Undergraduate only,10
+2020,18,Northern Ireland,Women,Undergraduate only,10
+2020,18,Not EU,Men,Undergraduate only,60
+2020,18,Not EU,Women,Undergraduate only,90
+2020,18,Scotland,Men,Undergraduate only,60
+2020,18,Scotland,Women,Undergraduate only,60
+2020,18,Wales,Men,Undergraduate only,20
+2020,18,Wales,Women,Undergraduate only,40
+2020,19,EU (excluding UK),Men,Undergraduate only,30
+2020,19,EU (excluding UK),Women,Undergraduate only,30
+2020,19,England,Men,Undergraduate only,90
+2020,19,England,Women,Undergraduate only,90
+2020,19,Not EU,Men,Undergraduate only,40
+2020,19,Not EU,Women,Undergraduate only,50
+2020,19,Scotland,Men,Undergraduate only,20
+2020,19,Scotland,Women,Undergraduate only,30
+2020,19,Wales,Men,Undergraduate only,10
+2020,19,Wales,Women,Undergraduate only,10
+2020,20,EU (excluding UK),Men,Undergraduate only,10
+2020,20,EU (excluding UK),Women,Undergraduate only,10
+2020,20,England,Men,Undergraduate only,20
+2020,20,England,Women,Undergraduate only,20
+2020,20,Not EU,Men,Undergraduate only,10
+2020,20,Not EU,Women,Postgraduate only,10
+2020,20,Not EU,Women,Undergraduate only,20
+2020,20,Scotland,Men,Undergraduate only,10
+2020,20,Scotland,Women,Undergraduate only,10
+2020,21-24,EU (excluding UK),Men,Postgraduate only,50
+2020,21-24,EU (excluding UK),Men,Undergraduate only,20
+2020,21-24,EU (excluding UK),Women,Postgraduate only,90
+2020,21-24,EU (excluding UK),Women,Undergraduate only,30
+2020,21-24,England,Men,Postgraduate only,190
+2020,21-24,England,Men,Undergraduate only,20
+2020,21-24,England,Women,Postgraduate only,200
+2020,21-24,England,Women,Undergraduate only,20
+2020,21-24,Northern Ireland,Women,Postgraduate only,10
+2020,21-24,Not EU,Men,Combination,10
+2020,21-24,Not EU,Men,Postgraduate only,160
+2020,21-24,Not EU,Men,Undergraduate only,20
+2020,21-24,Not EU,Women,Postgraduate only,410
+2020,21-24,Not EU,Women,Undergraduate only,30
+2020,21-24,Scotland,Men,Postgraduate only,20
+2020,21-24,Scotland,Men,Undergraduate only,20
+2020,21-24,Scotland,Women,Postgraduate only,30
+2020,21-24,Scotland,Women,Undergraduate only,10
+2020,21-24,Wales,Men,Postgraduate only,20
+2020,21-24,Wales,Women,Postgraduate only,20
+2020,25-29,EU (excluding UK),Men,Postgraduate only,50
+2020,25-29,EU (excluding UK),Men,Undergraduate only,10
+2020,25-29,EU (excluding UK),Women,Postgraduate only,50
+2020,25-29,England,Men,Postgraduate only,90
+2020,25-29,England,Men,Undergraduate only,10
+2020,25-29,England,Women,Postgraduate only,110
+2020,25-29,England,Women,Undergraduate only,10
+2020,25-29,Not EU,Men,Postgraduate only,110
+2020,25-29,Not EU,Men,Undergraduate only,10
+2020,25-29,Not EU,Women,Postgraduate only,130
+2020,25-29,Scotland,Men,Postgraduate only,10
+2020,25-29,Scotland,Women,Postgraduate only,20
+2020,25-29,Wales,Women,Postgraduate only,10
+2020,30-34,EU (excluding UK),Men,Postgraduate only,10
+2020,30-34,EU (excluding UK),Women,Postgraduate only,10
+2020,30-34,England,Men,Postgraduate only,20
+2020,30-34,England,Women,Postgraduate only,20
+2020,30-34,Not EU,Men,Postgraduate only,10
+2020,30-34,Not EU,Women,Postgraduate only,20
+2020,35 and over,England,Men,Postgraduate only,10
+2020,35 and over,England,Women,Postgraduate only,20
+2020,35 and over,Not EU,Men,Postgraduate only,10
+2020,35 and over,Not EU,Women,Postgraduate only,10
+2021,17 and under,EU (excluding UK),Women,Undergraduate only,10
+2021,17 and under,Not EU,Men,Undergraduate only,10
+2021,17 and under,Not EU,Women,Undergraduate only,20
+2021,18,EU (excluding UK),Men,Undergraduate only,30
+2021,18,EU (excluding UK),Women,Undergraduate only,40
+2021,18,England,Men,Combination,10
+2021,18,England,Men,Undergraduate only,330
+2021,18,England,Women,Undergraduate only,260
+2021,18,Northern Ireland,Women,Undergraduate only,10
+2021,18,Not EU,Men,Undergraduate only,80
+2021,18,Not EU,Women,Undergraduate only,120
+2021,18,Scotland,Men,Undergraduate only,50
+2021,18,Scotland,Women,Undergraduate only,40
+2021,18,Wales,Men,Undergraduate only,20
+2021,18,Wales,Women,Undergraduate only,20
+2021,19,EU (excluding UK),Men,Undergraduate only,10
+2021,19,EU (excluding UK),Women,Undergraduate only,30
+2021,19,England,Men,Undergraduate only,90
+2021,19,England,Women,Undergraduate only,70
+2021,19,Not EU,Men,Undergraduate only,40
+2021,19,Not EU,Women,Undergraduate only,50
+2021,19,Scotland,Men,Undergraduate only,10
+2021,19,Scotland,Women,Undergraduate only,30
+2021,19,Wales,Men,Undergraduate only,10
+2021,19,Wales,Women,Undergraduate only,10
+2021,20,EU (excluding UK),Men,Undergraduate only,10
+2021,20,EU (excluding UK),Women,Undergraduate only,10
+2021,20,England,Men,Undergraduate only,20
+2021,20,England,Women,Undergraduate only,10
+2021,20,Not EU,Men,Undergraduate only,20
+2021,20,Not EU,Women,Undergraduate only,20
+2021,20,Scotland,Men,Undergraduate only,10
+2021,21-24,EU (excluding UK),Men,Postgraduate only,60
+2021,21-24,EU (excluding UK),Men,Undergraduate only,10
+2021,21-24,EU (excluding UK),Women,Postgraduate only,70
+2021,21-24,EU (excluding UK),Women,Undergraduate only,20
+2021,21-24,England,Men,Postgraduate only,180
+2021,21-24,England,Men,Undergraduate only,20
+2021,21-24,England,Women,Postgraduate only,230
+2021,21-24,England,Women,Undergraduate only,20
+2021,21-24,Northern Ireland,Women,Postgraduate only,10
+2021,21-24,Not EU,Men,Postgraduate only,230
+2021,21-24,Not EU,Men,Undergraduate only,20
+2021,21-24,Not EU,Women,Postgraduate only,380
+2021,21-24,Not EU,Women,Undergraduate only,30
+2021,21-24,Scotland,Men,Postgraduate only,40
+2021,21-24,Scotland,Men,Undergraduate only,10
+2021,21-24,Scotland,Women,Postgraduate only,30
+2021,21-24,Scotland,Women,Undergraduate only,10
+2021,21-24,Wales,Men,Postgraduate only,20
+2021,21-24,Wales,Women,Postgraduate only,30
+2021,25-29,EU (excluding UK),Men,Postgraduate only,40
+2021,25-29,EU (excluding UK),Men,Undergraduate only,10
+2021,25-29,EU (excluding UK),Women,Postgraduate only,50
+2021,25-29,EU (excluding UK),Women,Undergraduate only,10
+2021,25-29,England,Men,Postgraduate only,90
+2021,25-29,England,Women,Postgraduate only,100
+2021,25-29,Not EU,Men,Postgraduate only,100
+2021,25-29,Not EU,Women,Postgraduate only,140
+2021,25-29,Not EU,Women,Undergraduate only,10
+2021,25-29,Scotland,Men,Postgraduate only,10
+2021,25-29,Scotland,Men,Undergraduate only,10
+2021,25-29,Scotland,Women,Postgraduate only,10
+2021,25-29,Wales,Men,Postgraduate only,10
+2021,30-34,EU (excluding UK),Men,Postgraduate only,10
+2021,30-34,England,Men,Postgraduate only,10
+2021,30-34,England,Women,Postgraduate only,30
+2021,30-34,Not EU,Men,Postgraduate only,20
+2021,30-34,Not EU,Women,Postgraduate only,20
+2021,35 and over,England,Men,Postgraduate only,10
+2021,35 and over,England,Women,Postgraduate only,10
+2021,35 and over,Not EU,Men,Postgraduate only,10
+2021,35 and over,Not EU,Women,Postgraduate only,10
+2022,17 and under,Not EU,Men,Undergraduate only,10
+2022,17 and under,Not EU,Women,Undergraduate only,20
+2022,18,EU (excluding UK),Men,Undergraduate only,20
+2022,18,EU (excluding UK),Women,Undergraduate only,40
+2022,18,England,Men,Combination,10
+2022,18,England,Men,Undergraduate only,310
+2022,18,England,Women,Undergraduate only,280
+2022,18,Northern Ireland,Men,Undergraduate only,10
+2022,18,Northern Ireland,Women,Undergraduate only,10
+2022,18,Not EU,Men,Undergraduate only,90
+2022,18,Not EU,Women,Undergraduate only,110
+2022,18,Scotland,Men,Undergraduate only,50
+2022,18,Scotland,Women,Undergraduate only,30
+2022,18,Wales,Men,Undergraduate only,10
+2022,18,Wales,Women,Undergraduate only,20
+2022,19,EU (excluding UK),Men,Undergraduate only,10
+2022,19,EU (excluding UK),Women,Undergraduate only,20
+2022,19,England,Men,Undergraduate only,80
+2022,19,England,Women,Undergraduate only,70
+2022,19,Not EU,Men,Undergraduate only,40
+2022,19,Not EU,Women,Undergraduate only,50
+2022,19,Scotland,Men,Undergraduate only,20
+2022,19,Scotland,Women,Undergraduate only,10
+2022,20,England,Men,Undergraduate only,10
+2022,20,England,Women,Undergraduate only,20
+2022,20,Not EU,Men,Undergraduate only,10
+2022,20,Not EU,Women,Undergraduate only,20
+2022,20,Scotland,Men,Undergraduate only,10
+2022,21-24,EU (excluding UK),Men,Postgraduate only,30
+2022,21-24,EU (excluding UK),Men,Undergraduate only,10
+2022,21-24,EU (excluding UK),Women,Postgraduate only,50
+2022,21-24,EU (excluding UK),Women,Undergraduate only,10
+2022,21-24,England,Men,Postgraduate only,190
+2022,21-24,England,Men,Undergraduate only,10
+2022,21-24,England,Women,Postgraduate only,190
+2022,21-24,England,Women,Undergraduate only,10
+2022,21-24,Not EU,Men,Postgraduate only,240
+2022,21-24,Not EU,Men,Undergraduate only,20
+2022,21-24,Not EU,Women,Postgraduate only,460
+2022,21-24,Not EU,Women,Undergraduate only,20
+2022,21-24,Scotland,Men,Postgraduate only,20
+2022,21-24,Scotland,Women,Postgraduate only,30
+2022,21-24,Wales,Men,Postgraduate only,10
+2022,21-24,Wales,Women,Postgraduate only,20
+2022,25-29,EU (excluding UK),Men,Postgraduate only,30
+2022,25-29,EU (excluding UK),Women,Postgraduate only,30
+2022,25-29,England,Men,Postgraduate only,80
+2022,25-29,England,Men,Undergraduate only,10
+2022,25-29,England,Women,Postgraduate only,110
+2022,25-29,Not EU,Men,Postgraduate only,90
+2022,25-29,Not EU,Men,Undergraduate only,10
+2022,25-29,Not EU,Women,Postgraduate only,120
+2022,25-29,Not EU,Women,Undergraduate only,10
+2022,25-29,Scotland,Men,Postgraduate only,10
+2022,25-29,Scotland,Women,Postgraduate only,10
+2022,25-29,Wales,Men,Postgraduate only,10
+2022,25-29,Wales,Women,Postgraduate only,10
+2022,30-34,England,Men,Postgraduate only,20
+2022,30-34,England,Women,Postgraduate only,30
+2022,30-34,Not EU,Men,Postgraduate only,20
+2022,30-34,Not EU,Women,Postgraduate only,20
+2022,35 and over,England,Men,Postgraduate only,10
+2022,35 and over,England,Women,Postgraduate only,10
+2022,35 and over,Not EU,Men,Postgraduate only,20
+2022,35 and over,Not EU,Women,Postgraduate only,10
+2023,17 and under,EU (excluding UK),Men,Undergraduate only,10
+2023,17 and under,EU (excluding UK),Women,Undergraduate only,10
+2023,17 and under,Not EU,Men,Undergraduate only,20
+2023,17 and under,Not EU,Women,Undergraduate only,30
+2023,18,EU (excluding UK),Men,Undergraduate only,10
+2023,18,EU (excluding UK),Women,Undergraduate only,20
+2023,18,England,Men,Undergraduate only,320
+2023,18,England,Women,Undergraduate only,260
+2023,18,Northern Ireland,Men,Undergraduate only,10
+2023,18,Northern Ireland,Women,Undergraduate only,10
+2023,18,Not EU,Men,Undergraduate only,90
+2023,18,Not EU,Women,Combination,10
+2023,18,Not EU,Women,Undergraduate only,140
+2023,18,Scotland,Men,Undergraduate only,40
+2023,18,Scotland,Women,Undergraduate only,50
+2023,18,Wales,Men,Undergraduate only,20
+2023,18,Wales,Women,Undergraduate only,20
+2023,19,EU (excluding UK),Men,Undergraduate only,10
+2023,19,EU (excluding UK),Women,Undergraduate only,20
+2023,19,England,Men,Undergraduate only,100
+2023,19,England,Women,Undergraduate only,60
+2023,19,Not EU,Men,Undergraduate only,40
+2023,19,Not EU,Women,Undergraduate only,80
+2023,19,Scotland,Men,Undergraduate only,20
+2023,19,Scotland,Women,Undergraduate only,10
+2023,19,Wales,Women,Undergraduate only,10
+2023,20,EU (excluding UK),Women,Undergraduate only,10
+2023,20,England,Men,Undergraduate only,20
+2023,20,England,Women,Undergraduate only,20
+2023,20,Not EU,Men,Undergraduate only,20
+2023,20,Not EU,Women,Postgraduate only,10
+2023,20,Not EU,Women,Undergraduate only,20
+2023,20,Scotland,Men,Undergraduate only,10
+2023,21-24,EU (excluding UK),Men,Postgraduate only,50
+2023,21-24,EU (excluding UK),Men,Undergraduate only,10
+2023,21-24,EU (excluding UK),Women,Postgraduate only,50
+2023,21-24,EU (excluding UK),Women,Undergraduate only,10
+2023,21-24,England,Men,Postgraduate only,170
+2023,21-24,England,Men,Undergraduate only,10
+2023,21-24,England,Women,Postgraduate only,210
+2023,21-24,England,Women,Undergraduate only,20
+2023,21-24,Not EU,Men,Postgraduate only,270
+2023,21-24,Not EU,Men,Undergraduate only,20
+2023,21-24,Not EU,Women,Combination,10
+2023,21-24,Not EU,Women,Postgraduate only,450
+2023,21-24,Not EU,Women,Undergraduate only,20
+2023,21-24,Scotland,Men,Postgraduate only,20
+2023,21-24,Scotland,Men,Undergraduate only,10
+2023,21-24,Scotland,Women,Postgraduate only,30
+2023,21-24,Wales,Men,Postgraduate only,10
+2023,21-24,Wales,Women,Postgraduate only,20
+2023,25-29,EU (excluding UK),Men,Postgraduate only,30
+2023,25-29,EU (excluding UK),Women,Postgraduate only,30
+2023,25-29,England,Men,Postgraduate only,70
+2023,25-29,England,Men,Undergraduate only,10
+2023,25-29,England,Women,Postgraduate only,90
+2023,25-29,England,Women,Undergraduate only,10
+2023,25-29,Not EU,Men,Postgraduate only,130
+2023,25-29,Not EU,Men,Undergraduate only,10
+2023,25-29,Not EU,Women,Postgraduate only,130
+2023,25-29,Not EU,Women,Undergraduate only,10
+2023,25-29,Scotland,Men,Postgraduate only,10
+2023,25-29,Scotland,Women,Postgraduate only,10
+2023,25-29,Wales,Men,Postgraduate only,10
+2023,25-29,Wales,Women,Postgraduate only,10
+2023,30-34,EU (excluding UK),Men,Postgraduate only,10
+2023,30-34,England,Men,Postgraduate only,20
+2023,30-34,England,Women,Postgraduate only,20
+2023,30-34,Not EU,Men,Postgraduate only,20
+2023,30-34,Not EU,Women,Postgraduate only,40
+2023,35 and over,England,Men,Postgraduate only,10
+2023,35 and over,England,Women,Postgraduate only,20
+2023,35 and over,Not EU,Men,Postgraduate only,10
+2023,35 and over,Not EU,Women,Postgraduate only,10
